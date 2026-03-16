@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Information Technology (ITEC), University of Klagenfurt</a>. S2.55, University of Klagenfurt, 9020 Klagenfurt. Austria.
+subtitle: <a href='#'>Department of Information Technology (ITEC), University of Klagenfurt</a>. Postdoctoral Reseacher and Lecturer
 
 profile:
   align: right
   image: Reza.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>S2.55, University of Klagenfurt</p>
+    <p>S.2.55, Department of Information Technology (ITEC)</p>
+    <p>University of Klagenfurt</p>
     <p>Universitätsstraße 65–67</p>
     <p>9020 Kagenfurt, Austria</p>
 

@@ -75,6 +75,7 @@
         "Research on optimizing intelligent distributed service orchestration for the IoT–Edge–Cloud continuum"
       ]
     },
+ 
     {
       "institution": "University of Klagenfurt",
       "location": "Klagenfurt, Austria",
@@ -84,9 +85,11 @@
       "endDate": "2023-02",
       "highlights": [
         "Dissertation: Network-Assisted Delivery of Adaptive Video Streaming Services through CDN, SDN, and MEC",
-        "PhD Dissertation: https://netlibrary.aau.at/obvuklhs/content/titleinfo/9173622"
+        "Dissertation: <a href=\"https://netlibrary.aau.at/obvuklhs/content/titleinfo/9173622\" target=\"_blank\">[link]</a>"
       ]
     },
+
+
     {
       "institution": "University of Tehran",
       "location": "Tehran, Iran",
@@ -98,6 +101,9 @@
         "Thesis: Analyzing and Improving Video Streaming on Software-Defined Networks"
       ]
     },
+
+
+
     {
       "institution": "University of Isfahan",
       "location": "Isfahan, Iran",

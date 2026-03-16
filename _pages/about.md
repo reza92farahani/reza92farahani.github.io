@@ -15,10 +15,10 @@ profile:
 selected_papers: false 
 social: true 
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: true # includes a list of news items
+#   scrollable: true
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
 # latest_posts:
 #   enabled: true

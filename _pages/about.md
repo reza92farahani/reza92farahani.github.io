@@ -6,14 +6,14 @@ subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">D
 
 profile:
   align: right
-  image: Reza.jpg
+  image: Reza2.jpg
   image_circular: true 
     <p>S2.55, South Buildingr</p>
     <p>UniversityStraSUniversitätsstraße 65–67</p>
     <p>9020 Klagenfurt, Austria</p>
 
 selected_papers: false 
-social: true 
+social: true
 
 # announcements:
 #   enabled: true # includes a list of news items

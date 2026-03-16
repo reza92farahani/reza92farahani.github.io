@@ -32,7 +32,8 @@ loading="lazy">
 
 ## TU Wien — Distributed Systems Group (DSG)
 
-[Distributed Systems Group (DSG)] (https://dsg.tuwien.ac.at/)
+[Distributed Systems Group (DSG)](https://dsg.tuwien.ac.at/)
+
 Karlsplatz 13
 1040 Vienna
 Austria

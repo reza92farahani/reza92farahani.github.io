@@ -2,7 +2,7 @@
 layout: page
 title: Supervision
 nav: true
-nav_order: 6
+nav_order: 5
 dropdown: false
 children:
   - title: bookshelf

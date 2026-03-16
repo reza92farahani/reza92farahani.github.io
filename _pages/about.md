@@ -12,6 +12,9 @@ profile:
   more_info: >
 selected_papers: false
 social: true
+news: true
+selected_papers: false
+social: true
 ---
 
 Hello!

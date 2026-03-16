@@ -6,15 +6,3 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 7
 ---
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>

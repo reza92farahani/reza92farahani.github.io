@@ -5,6 +5,7 @@ title: Teaching
 nav: true
 nav_order: 4
 ---
+
 I have been actively involved in teaching activities in distributed systems, edge–cloud computing, and advanced Internet architectures. The following courses summarize my recent teaching activities.
 
 ## 2026
@@ -15,7 +16,10 @@ I have been actively involved in teaching activities in distributed systems, edg
 **Spring 2026: Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
+  
+
 ---
+
 ## 2025
 
 **Fall 2025: Serverless Distributed Systems (VC, 623.720)**  
@@ -33,6 +37,7 @@ I have been actively involved in teaching activities in distributed systems, edg
   - Apply knowledge of distributed systems to design and deploy efficient, scalable solutions for IoT and EdgeAI applications.
 
 ---
+
 ## 2024
 
 **Fall 2024: Serverless Distributed Systems (VC, 623.720)**  
@@ -78,6 +83,7 @@ I have been actively involved in teaching activities in distributed systems, edg
     - Video Networking via Mininet
 
 ---
+
 ## Earlier Teaching (2017-2019)
 
 **Advanced ISP Network Protocols (BGP, OSPF, MPLS, QoS)**  

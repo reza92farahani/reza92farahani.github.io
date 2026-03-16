@@ -7,11 +7,23 @@ subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">D
 profile:
   align: right
   image: Reza.jpg
-  image_circular: true
+  image_circular: true 
+    <p>S2.55, South Buildingr</p>
+    <p>UniversityStraSUniversitätsstraße 65–67</p>
+    <p>9020 Klagenfurt, Austria</p>
 
-news: true
-selected_papers: false
-social: true
+selected_papers: false 
+social: true 
+
+announcements:
+  # enabled: true # includes a list of news items
+  scrollable: true
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello!

@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Reseacher and Lecturer <a href='https://itec.aau.at/'>Department of Information Technology (ITEC)</a>, <a href='https://www.aau.at/'>University of Klagenfurt</a>
+subtitle: Postdoctoral Reseacher and Lecturer <a href='https://itec.aau.at/'>Department of Information Technology (ITEC)</a>, <a href='https://www.aau.at/'> University of Klagenfurt</a>
 
 profile:
   align: right
   image: Reza.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true 
   more_info: >
     <p>S.2.55, Department of Information Technology (ITEC)</p>
     <p>University of Klagenfurt</p>
@@ -15,7 +15,7 @@ profile:
     <p>9020 Kagenfurt, Austria</p>
 
 selected_papers: false 
-social: true # includes social icons at the bottom of the page
+social: true 
 
 announcements:
   enabled: true 
@@ -28,14 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello everybody!
+Hello!
 
-I am a postdoctoral researcher working in distributed systems, edge–cloud continuum orchestration, serverless computing, and sustainable AI systems.
+I am a Postdoctoral Researcher and Lecturer at the Department of Information Technology (ITEC), University of Klagenfurt, Austria. My research focuses on distributed and intelligent service orchestration across the edge–cloud continuum, with emphasis on performance, reliability, and energy efficiency. I develop systems and methods that enable data-intensive and AI-driven workloads, such as video analytics, graph processing, and LLM inference, to run efficiently on heterogeneous edge, fog, and cloud resources.
 
-My research focuses on resource-efficient orchestration across heterogeneous infrastructures, including edge, cloud, and HPC environments, with particular emphasis on latency, energy, cost, and carbon-aware optimization. My current work spans serverless workflow scheduling, edge intelligence, multimodal AI systems, and sustainability-aware infrastructure design.
+My work integrates modern techniques including Edge AI, agentic AI, serverless computing, softwarized and virtualized network functions, and scheduling and optimization methods to support dependable, scalable, and resource-aware execution. I also design and operate testbeds that combine HPC, cloud, and edge resources to evaluate latency, resilience, and energy consumption in realistic automation and smart-infrastructure scenarios.
 
-I am involved in several European and Austrian research projects and publish in venues related to distributed systems, cloud/
+At the University of Klagenfurt, I am pursuing my Habilitation on optimizing intelligent distributed service orchestration for the IoT–Edge–Cloud continuum. I am also involved in several European and Austrian research projects, where I contribute to the design and validation of Graph-Choreographer and to the development of a federated HPC–Edge–Cloud continuum testbed.
 
-edge computing, and performance engineering. My broader interests include resource-aware AI systems, sustainable computing, orchestration across the continuum, and distributed infrastructure design.
-
-I also teach and supervise students in areas related to cloud computing, IoT, edge AI, distributed systems, and serverless computing.
+In addition to research, I teach and supervise students in distributed systems, cloud computing, serverless computing, and Internet of Things.

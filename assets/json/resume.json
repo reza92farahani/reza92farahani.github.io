@@ -113,5 +113,49 @@
         "Project: Implementing Image Steganography using an LSB-Based Algorithm on FPGA"
       ]
     }
-  ]
+  ],
+  
+"awards": [
+  {
+    "title": "Nominated by the University of Klagenfurt for the Austrian Heinz Zemanek Prize for an Outstanding Technical PhD Dissertation",
+    "awarder": "University of Klagenfurt",
+    "date": "2023",
+    "summary": ""
+  },
+  {
+    "title": "Young Researcher Visiting Grant",
+    "awarder": "University of Klagenfurt",
+    "date": "2024",
+    "summary": "3500€"
+  },
+  {
+    "title": "Young Researcher Visiting Grant",
+    "awarder": "University of Klagenfurt",
+    "date": "2022",
+    "summary": "5000€"
+  },
+  {
+    "title": "ACM Student Travel Grant Award",
+    "awarder": "ACM",
+    "date": "2022",
+    "summary": "1000$"
+  },
+  {
+    "title": "ACM Student Travel Grant Award",
+    "awarder": "ACM",
+    "date": "2021",
+    "summary": "1000$"
+  },
+  {
+    "title": "Ranked 81st in the Iranian Nationwide Entrance Exam for MSc Studies in Computer Architecture",
+    "awarder": "National University Entrance Examination",
+    "date": "2016",
+    "summary": ""
+  }
+]
+
 }
+
+
+
+

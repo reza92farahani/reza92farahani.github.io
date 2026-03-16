@@ -1,8 +1,5 @@
 {% capture footer_contents %}
-  &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}.
+  &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
   {{ site.footer_text }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
@@ -12,12 +9,8 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.newsletter.enabled %}
-  {% include newsletter.liquid %}
-{% endif %}
-
-{% if site.enable_navbar_social %}
-  <div class="footer-social-wrapper">
+<footer class="site-footer-wrapper" role="contentinfo">
+  <div class="footer-social-section">
     <div class="container">
       <div class="footer-social">
         {% social_links %}
@@ -27,10 +20,10 @@
       </div>
     </div>
   </div>
-{% endif %}
 
-<footer class="sticky-bottom mt-5" role="contentinfo">
-  <div class="container">
-    {{ footer_contents }}
+  <div class="footer-bottom-bar">
+    <div class="container">
+      {{ footer_contents }}
+    </div>
   </div>
 </footer>

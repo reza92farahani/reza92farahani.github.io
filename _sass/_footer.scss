@@ -1,61 +1,83 @@
-/*******************************************************************************
- * Footer styles
- ******************************************************************************/
+// /*******************************************************************************
+//  * Footer styles
+//  ******************************************************************************/
 
-footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+// footer.fixed-bottom {
+//   background-color: var(--global-footer-bg-color);
+//   font-size: 0.75rem;
 
-  .container {
-    color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
-    text-align: center;
-  }
+//   .container {
+//     color: var(--global-footer-text-color);
+//     padding-top: 9px;
+//     padding-bottom: 8px;
+//     text-align: center;
+//   }
 
-  a {
-    color: var(--global-footer-link-color);
+//   a {
+//     color: var(--global-footer-link-color);
 
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
-    }
-  }
+//     &:hover {
+//       color: var(--global-theme-color);
+//       text-decoration: none;
+//     }
+//   }
+// }
+
+// footer.sticky-bottom {
+//   border-top: 1px solid var(--global-divider-color);
+//   padding-top: 40px;
+//   padding-bottom: 40px;
+//   font-size: 0.9rem;
+
+//   .container {
+//     text-align: center;
+//   }
+// }
+
+.site-footer-wrapper {
+  margin-top: 4rem;
 }
 
-footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
-
-  .container {
-    text-align: center;
-  }
-}
-
-.footer-social-wrapper {
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
+.footer-social-section {
   text-align: center;
+  padding: 2rem 0 1.5rem 0;
+  background: transparent;
 }
 
 .footer-social {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 2.25rem;
   flex-wrap: wrap;
   margin-bottom: 1rem;
 }
 
 .footer-social a {
-  font-size: 4rem;
+  font-size: 4.2rem;
   line-height: 1;
+  color: inherit !important;
 }
 
 .footer-contact-note {
   text-align: center;
   font-size: 1.1rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.footer-bottom-bar {
+  background-color: #1c1c1c;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 1rem;
+}
+
+.footer-bottom-bar a {
+  color:#f5f5f5 !important;
+  text-decoration: none;
+}
+
+.footer-bottom-bar a:hover {
+  text-decoration: underline;
 }

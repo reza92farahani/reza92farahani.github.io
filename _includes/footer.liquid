@@ -9,19 +9,14 @@
   {% endif %}
 {% endcapture %}
 
-<footer class="site-footer-wrapper" role="contentinfo">
-  {% unless page.permalink == '/' %}
-    <div class="footer-social-section">
-      <div class="container">
-        <div class="footer-social">
-          {% social_links %}
-        </div>
-        <div class="footer-contact-note">
-          Email is the best way to reach me.
-        </div>
+<footer role="contentinfo">
+  <div class="footer-icons-section">
+    <div class="container">
+      <div class="footer-social-icons">
+        {% social_links %}
       </div>
     </div>
-  {% endunless %}
+  </div>
 
   <div class="footer-bottom-bar">
     <div class="container">

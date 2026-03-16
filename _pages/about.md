@@ -2,30 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Reseacher and Lecturer <a href='https://itec.aau.at/'>Department of Information Technology (ITEC)</a>, <a href='https://www.aau.at/'> University of Klagenfurt</a>
-
+subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt</a>
+nav: true
+nav_order: 1
 profile:
   align: right
-  image: Reza.jpg
-  image_circular: true 
+  image: prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>S.2.55, Department of Information Technology (ITEC)</p>
-    <p>University of Klagenfurt</p>
-    <p>Universitätsstraße 65–67</p>
-    <p>9020 Kagenfurt, Austria</p>
+selected_papers: false
+social: false
 
-selected_papers: false 
-social: true 
-
-announcements:
-  enabled: true 
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 15 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello!

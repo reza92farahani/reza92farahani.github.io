@@ -1,25 +1,27 @@
-footer.fixed-bottom,
-footer.sticky-bottom {
-  background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
-  color: var(--global-footer-text-color);
-  padding-top: 9px;
-  padding-bottom: 8px;
+{% capture footer_contents %}
+  © Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
+  {{ site.footer_text }}
+  {% if site.impressum_path %}
+    <a href="{{ site.impressum_path | relative_url }}">Impressum</a>.
+  {% endif %}
+  {% if site.last_updated %}
+    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+  {% endif %}
+{% endcapture %}
 
-  .container {
-    text-align: center;
-  }
-
-  a {
-    color: var(--global-theme-color);
-
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: underline;
-    }
-  }
-}
-
-body.fixed-top-nav.sticky-bottom-footer {
-  padding-bottom: 0;
-}
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% else %}
+  {% if site.newsletter.enabled %}
+    {% include newsletter.liquid %}
+  {% endif %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="container">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% endif %}

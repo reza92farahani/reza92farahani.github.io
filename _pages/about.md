@@ -8,11 +8,10 @@ nav_order: 1
 profile:
   align: right
   image: Reza.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
 selected_papers: false
 social: true
-
 ---
 
 Hello!

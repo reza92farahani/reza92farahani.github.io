@@ -33,6 +33,8 @@ I am a postdoctoral researcher working in distributed systems, edge–cloud cont
 
 My research focuses on resource-efficient orchestration across heterogeneous infrastructures, including edge, cloud, and HPC environments, with particular emphasis on latency, energy, cost, and carbon-aware optimization. My current work spans serverless workflow scheduling, edge intelligence, multimodal AI systems, and sustainability-aware infrastructure design.
 
-I am involved in several European and Austrian research projects and publish in venues related to distributed systems, cloud/edge computing, and performance engineering. My broader interests include resource-aware AI systems, sustainable computing, orchestration across the continuum, and distributed infrastructure design.
+I am involved in several European and Austrian research projects and publish in venues related to distributed systems, cloud/
+
+edge computing, and performance engineering. My broader interests include resource-aware AI systems, sustainable computing, orchestration across the continuum, and distributed infrastructure design.
 
 I also teach and supervise students in areas related to cloud computing, IoT, edge AI, distributed systems, and serverless computing.

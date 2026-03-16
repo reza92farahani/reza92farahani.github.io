@@ -1,33 +1,27 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: reza.farahani@aau.com # your email address
-# Linkedin_id: 1010907 # Inspire HEP author ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-scholar_userid: RiFrnFQAAAAJ&hl # your Google Scholar ID
+email: reza.farahani@aau.at
+scholar_userid: RiFrnFQAAAAJ
 
-custom_social:
-  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg
-    title: LinkedIn
-    url: https://www.linkedin.com/in/reza-farahani/
+my_linkedin:
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg
+  title: LinkedIn
+  url: https://www.linkedin.com/in/reza-farahani/
 
-  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
-    title: ResearchGate
-    url: https://www.researchgate.net/profile/Reza-Farahani-5
+my_researchgate:
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Reza-Farahani-5
 
-  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg
-    title: ORCID
-    url: https://orcid.org/0000-0002-2376-5802
+my_orcid:
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg
+  title: ORCID
+  url: https://orcid.org/0000-0002-2376-5802
 
-  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg
-    title: X
-    url: https://x.com/reza_farahani_?lang=el
+my_x:
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg
+  title: X
+  url: https://x.com/reza_farahani_
 
-  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg
-    title: Bluesky
-    url: https://bsky.app/profile/refarahani.bsky.social
-
-
-
+my_bluesky:
+  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg
+  title: Bluesky
+  url: https://bsky.app/profile/refarahani.bsky.social

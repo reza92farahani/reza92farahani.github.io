@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Reza.jpg
   image_circular: false
   more_info: >
 selected_papers: false

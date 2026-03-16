@@ -43,7 +43,7 @@ My role includes collaboration on AI-based sustainable video streaming systems a
 
 ---
 
-### **ATHENA** <img src="/assets/img/CDG.png" alt="CDG logo" width="110">
+### **<a href="https://athena.itec.aau.at" target="_blank">ATHENA</a>** <img src="/assets/img/CDG.png" alt="FFG logo" width="100">
 
 **Adaptive Streaming over HTTP and Emerging Networked Multimedia Services**
 

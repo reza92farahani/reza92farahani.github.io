@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt</a>
 

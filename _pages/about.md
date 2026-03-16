@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Information Technology (ITEC), University of Klagenfurt</a>. Postdoctoral Reseacher and Lecturer
+subtitle: Postdoctoral Reseacher and Lecturer <a href='https://itec.aau.at/'>Department of Information Technology (ITEC)</a>, <a href='https://www.aau.at/'>University of Klagenfurt</a>
 
 profile:
   align: right

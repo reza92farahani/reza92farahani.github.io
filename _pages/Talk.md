@@ -10,13 +10,13 @@ nav_order: 6
 **Serverless Orchestration on the Edge–Cloud Continuum: From Small Functions to LLMs**,  
 - IEEE/ACM UCC'25, Nantes, France, Dec 2025.
 
-Tutorial: **Serverless Orchestration on the Edge–Cloud Continuum: From Small Functions to LLMs**,  
+**Serverless Orchestration on the Edge–Cloud Continuum: From Small Functions to LLMs**,  
 - IEEE International ICDCS'25, Glasgow Scotland, Jul 2025.
 
-Tutorial: **Serverless Orchestration on the Edge–Cloud Continuum: Challenges and Solutions**,  
+**Serverless Orchestration on the Edge–Cloud Continuum: Challenges and Solutions**,  
 ACM/SPEC ICPE'25, Online, May 2025.
 
-Tutorial: **Latency- and Energy-Aware Video Compression and Delivery Streaming Systems**,  
+**Latency- and Energy-Aware Video Compression and Delivery Streaming Systems**,  
 European Workshop on Visual Information Processing (EUVIP), Geneva, Switzerland, Sep 2024.
 
 ---

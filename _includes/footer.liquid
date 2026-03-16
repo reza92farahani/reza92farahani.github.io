@@ -1,4 +1,4 @@
-{% capture footer_contents %}
+{% comment %} {% capture footer_contents %}
   © Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
   {{ site.footer_text }}
   {% if site.impressum_path %}
@@ -24,4 +24,10 @@
       {{ footer_contents }}
     </div>
   </footer>
-{% endif %}
+{% endif %} {% endcomment %}
+
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    {{ site.footer_text }}
+  </div>
+</footer>

@@ -10,16 +10,18 @@
 {% endcapture %}
 
 <footer class="site-footer-wrapper" role="contentinfo">
-  <div class="footer-social-section">
-    <div class="container">
-      <div class="footer-social">
-        {% social_links %}
-      </div>
-      <div class="footer-contact-note">
-        Email is the best way to reach me.
+  {% unless page.permalink == '/' %}
+    <div class="footer-social-section">
+      <div class="container">
+        <div class="footer-social">
+          {% social_links %}
+        </div>
+        <div class="footer-contact-note">
+          Email is the best way to reach me.
+        </div>
       </div>
     </div>
-  </div>
+  {% endunless %}
 
   <div class="footer-bottom-bar">
     <div class="container">

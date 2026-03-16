@@ -29,23 +29,23 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Kevin Castillo Cacsire (March 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: (in progress)
+  - Thesis:  (in progress)
   
 - **Daniel Kaltenböck (Feb 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: (in progress)
+  - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum*(in progress)
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor).
-  - Thesis: (in progress) 
+  - Thesis: *Adaptive Intelligent Video Analytics on the Edge-Cloud Continuum* (in progress) 
 
 - **Elif Toraman (Feb 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: (in progress)
+  - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress)
 
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: (in progress)
+  - Thesis: * Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress)
   
 ---
 

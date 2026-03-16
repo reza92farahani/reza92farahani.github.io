@@ -40,7 +40,7 @@ Austria
 
 
 <iframe
-src="https://www.google.com/maps/place/1040+Wien/@48.1922753,16.3702466,15z/data=!3m1!4b1!4m6!3m5!1s0x476d07637a2ef145:0x227ec301d3baadc7!8m2!3d48.1918841!4d16.3710632!16s%2Fm%2F0h6mqmz?hl=de&entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D"
+src="https://maps.tuwien.ac.at/?q=Argentinierstra%C3%9Fe%208"
 width="100%"
 height="400"
 style="border:0;"

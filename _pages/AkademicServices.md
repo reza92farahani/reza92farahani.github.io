@@ -4,6 +4,7 @@ permalink: /AcademicService/
 title: Professional Service
 nav: true
 nav_order: 7
+
 ---
 I actively contribute to the research community through program committee service,
 journal reviewing, and workshop organization in distributed systems, edge-cloud computing, multimedia systems and services, and sustainable systems.
@@ -11,6 +12,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ---
 
 ### Workshop and Seminar Organization
+  
   - **Engineering Techniques for Distributed Computing Continuum (DCCS 2026)**  
   Workshop organizer, co-located with  
   <a href="https://icdcs2026.icdcs.org/">IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</a>, Seoul, South Korea.
@@ -27,6 +29,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ---
 
 ### Technical Program Committee (TPC)
+
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2026**)
 - ACM International Conference on Computing Frontiers (**CF 2025–2026**)
 - International Conference on Performance Engineering, Artifact track (**ICPE 2025–2026**)
@@ -49,6 +52,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ---
 
 ### Session Chair
+
 - IEEE International Conference on Internet of Things (**IoT 2025**) – Edge AI and Distributed Intelligence
 - IEEE International Conference on Distributed Computing Systems (**ICDCS 2025**) – Sustainable and Efficient Training and Deployment
 - IEEE International Conference on Cloud Computing (**CLOUD 2025**) – Network and Workload Optimization

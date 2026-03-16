@@ -5,15 +5,14 @@ permalink: /projects/
 nav: true
 nav_order: 2
 ---
-
-### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange/a>** <img src="/assets/img/ENFIELD.png" alt="EU logo" width="90">
+### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange</a>** <img src="/assets/img/ENFIELD.png" alt="ENFIELD project logo representing the EU-funded initiative for green AI and drone-based power line inspection">
 
 **Green AI Scene Graph Indexing for Efficient Drone-Based Power Line Image and Point Cloud Retrieval**
 
-**Funder:** Exchange Scheme from European European Project  
+**Funder:** Exchange Scheme from European Project  
 **Period:** Mar. 2026 – Aug. 2026  
 
-Research visit focusing on Edge AI and Green AI for onboard processing in drone-based inspection systems, including efficient scene graph indexing and retrieval for power line imagery and point clouds. 
+Research visit focusing on Edge AI and Green AI for onboard processing in drone-based inspection systems, including efficient scene graph indexing and retrieval for power line imagery and point clouds.
 
 ----
 
@@ -25,7 +24,7 @@ Research visit focusing on Edge AI and Green AI for onboard processing in drone-
 **Grant:** 101093202  
 **Period:** Mar. 2023 – Feb. 2026  
 
-I serve as coordination-side scientific leader and WP5 leader. My work includes the design, development, and validation of **Graph-Choreographer** as a serverless and sustainable orchestration tool, as well as the design and coordination of a federated HPC–Edge–Cloud continuum testbed.
+I serve as coordination-side scientific leader and WP5 leader. My work includes the design, development, and validation of **Graph-Choreographer** as a serverless and sustainable orchestration tool, as well as the design and coordination of a **federated HPC–Edge–Cloud continuum testbed**.
 
 ---
 

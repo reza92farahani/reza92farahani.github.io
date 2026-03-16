@@ -7,19 +7,25 @@ nav_order: 7
 ---
 I actively contribute to the research community through program committee service,
 journal reviewing, and workshop organization in distributed systems, edge-cloud computing, multimedia systems and services, and sustainable systems.
+
 ---
+
 ### Workshop and Seminar Organization
   - **Engineering Techniques for Distributed Computing Continuum (DCCS 2026)**  
   Workshop organizer, co-located with  
-  <a href="https://icdcs2026.org/">IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</a>, Seoul, South Korea.
+  <a href="https://icdcs2026.icdcs.org/">IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</a>, Seoul, South Korea.
 
 - **Intelligent and Scalable Systems across the Computing Continuum (ScaleSys 2025)**  
   The main workshop organizer, co-located with  
   <a href="https://iot-conference.org/"> ACM International Conference on the Internet of Things (IoT 2025)</a>, TU Wien, Austria.
+
 ---
+
 ### Area / Track Chair Chair
 - ACM Multimedia (**MM 2024–2025**)
+
 ---
+
 ### Technical Program Committee (TPC)
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2026**)
 - ACM International Conference on Computing Frontiers (**CF 2025–2026**)
@@ -39,12 +45,15 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - - Workshop on Distributed Machine Learning for the Intelligent Computing Continuum (**DML-ICC 2025**)
 - International Workshop on Green and Sustainable Networking (**GreenNet 2024–2026**)
 - Workshop on Irregular Applications: Architectures and Algorithms (**IA3**, co-located with SC 2024–2025)
+
 ---
+
 ### Session Chair
 - IEEE International Conference on Internet of Things (**IoT 2025**) – Edge AI and Distributed Intelligence
 - IEEE International Conference on Distributed Computing Systems (**ICDCS 2025**) – Sustainable and Efficient Training and Deployment
 - IEEE International Conference on Cloud Computing (**CLOUD 2025**) – Network and Workload Optimization
 - IEEE International Conference on Edge Computing (**EDGE 2025**) – Tools and Platforms
+
 ---
 
 ## Journal Reviewing
@@ -64,7 +73,9 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - Journal of Cloud Computing (**2023**)
 - IEEE Access (**2022-2026**)
 - Cluster Computing (**2022**)
+
 ---
+
 ## Conference Reviewing
 - IEEE International Parallel & Distributed Processing Symposium (**IPDPS 2023-2026**)
 - IEEE International Conference on Cluster Computing (**CLUSTER 2025**)

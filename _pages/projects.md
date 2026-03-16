@@ -13,7 +13,7 @@ nav_order: 2
 **Funder:** Exchange Scheme from European Project  
 **Period:** Mar. 2026 – Aug. 2026  
 
-Research visit focusing on Edge AI and Green AI for onboard processing in drone-based inspection systems, including efficient scene graph indexing and retrieval for power line imagery and point clouds.
+Research visit and knowledge exchange at **SINTEF, Norway** on Edge AI and Green AI for onboard drone analytics, targeting efficient scene graph indexing and retrieval for power line inspection data.
 
 ----
 

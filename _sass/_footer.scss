@@ -33,3 +33,29 @@ footer.sticky-bottom {
     text-align: center;
   }
 }
+
+.footer-social-wrapper {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.footer-social a {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.footer-contact-note {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}

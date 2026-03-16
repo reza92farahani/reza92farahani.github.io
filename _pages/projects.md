@@ -5,7 +5,7 @@ permalink: /projects/
 nav: true
 nav_order: 2
 ---
-### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange</a>** <img src="/assets/img/ENFIELD.png" alt="ENFIELD project logo representing the EU-funded initiative for green AI and drone-based power line inspection">
+### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange</a>** <img src="/assets/img/ENFIELD.png" alt="ENFIELD  logo" width="120">
 
 **Green AI Scene Graph Indexing for Efficient Drone-Based Power Line Image and Point Cloud Retrieval**
 

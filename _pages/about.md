@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">D
 
 profile:
   align: right
-  image: Reza.png
+  image: Reza.jpg
   image_circular: true
 
 news: true

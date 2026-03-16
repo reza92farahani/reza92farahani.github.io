@@ -6,6 +6,7 @@ nav: true
 nav_order: 5
 
 ---
+
 ## PhD Students
 - **Ms. Zoha Azimi (Sept 2023 – Sept 2027)** 
   - University of Klagenfurt, Austria (PhD Advisor and Technical Supervisor).
@@ -93,7 +94,6 @@ I am always happy to supervise motivated Master's students. Possible thesis topi
 
 - **Reinforcement Learning and Active Inference for Edge–Cloud Resource Management**  
   Investigating reinforcement learning (RL), deep reinforcement learning (DRL), and active inference approaches for adaptive workload scheduling and resource allocation in heterogeneous edge–cloud infrastructures, exploring how intelligent agents can dynamically select execution nodes, models, or system configurations to optimize latency, energy consumption, and service quality under changing workloads.
-
 
 
 Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**.

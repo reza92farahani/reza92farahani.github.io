@@ -136,7 +136,7 @@ html[data-theme="dark"] {
 
 #back-to-top {
   color: var(--global-back-to-top-text-color);
-  background: var(--global-back-to-top-bg-color);
+  background: var(--global-back-to-top-bg-color); 
   bottom: v.$back-to-top-bottom;
   right: v.$back-to-top-right;
   height: v.$back-to-top-height;
@@ -176,4 +176,13 @@ html[data-theme="dark"] {
 #light-toggle:hover .fa-half-sun-moon::before,
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
+}
+
+html,
+body,
+main,
+.container,
+.container-fluid {
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
 }

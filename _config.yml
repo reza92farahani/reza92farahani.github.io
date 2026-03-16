@@ -1,5 +1,5 @@
 title: "Reza Farahani"
-first_name: ez
+first_name: Reez
 middle_name: 
 last_name: Farahani
 contact_note: >
@@ -50,7 +50,7 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -275,8 +275,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Farahani]
+  first_name: [Reza, R.]
 
   style: apa
   locale: en

@@ -14,11 +14,11 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ## Workshop and Seminar Organization
 
 - **<a href="https://scalesys2025.itec.aau.at/" target="_blank">Intelligent and Scalable Systems across the Computing Continuum (ScaleSys 2025)</a>**  
-  Workshop Organizer, co-located with  
+  Workshop main organizer, co-located with  
   <a href="https://iot-conference.org/" target="_blank">ACM International Conference on the Internet of Things (IoT 2025)</a>, TU Wien, Austria.
 
 - **<a href="https://edccs2026.blogs.dsv.su.se/" target="_blank">Engineering Techniques for Distributed Computing Continuum (DCCS 2026)</a>**  
-  Workshop Organizer, co-located with  
+  Workshop co-organizer, co-located with  
   <a href="https://icdcs2026.icdcs.org/" target="_blank">IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</a>,  
   Seoul, South Korea.
 

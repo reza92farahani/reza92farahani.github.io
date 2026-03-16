@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-supervision",
           title: "Supervision",
-          description: "The full list of published papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=RiFrnFQAAAAJ&amp;hl=en).",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervision/";

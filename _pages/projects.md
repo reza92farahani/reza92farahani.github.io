@@ -6,6 +6,17 @@ nav: true
 nav_order: 2
 ---
 
+### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange/a>** <img src="/assets/img/ENFIELD.png" alt="EU logo" width="90">
+
+**Green AI Scene Graph Indexing for Efficient Drone-Based Power Line Image and Point Cloud Retrieval**
+
+**Funder:** Exchange Scheme from European European Project  
+**Period:** Mar. 2026 – Aug. 2026  
+
+Research visit focusing on Edge AI and Green AI for onboard processing in drone-based inspection systems, including efficient scene graph indexing and retrieval for power line imagery and point clouds. 
+
+----
+
 ### **<a href="https://graph-massivizer.eu/" target="_blank">Graph-Massivizer</a>** <img src="/assets/img/EU.png" alt="EU logo" width="90">
 
 **Massive Graph Processing of Extreme Data for a Sustainable Economy, Society, and Environment**

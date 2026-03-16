@@ -8,20 +8,26 @@ email: reza.farahani@aau.com # your email address
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 scholar_userid: RiFrnFQAAAAJ&hl # your Google Scholar ID
 
-custom_social: 
-  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/reza-farahani/
+custom_social:
+  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg
+    title: LinkedIn
+    url: https://www.linkedin.com/in/reza-farahani/
 
-custom_social: 
-  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
-  title: ResearchGate
-  url: https://www.researchgate.net/profile/Reza-Farahani-5?ev=hdr_xprf
+  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
+    title: ResearchGate
+    url: https://www.researchgate.net/profile/Reza-Farahani-5
 
-custom_social: 
-  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg
-  title: ORCID
-  url: https://orcid.org/0000-0002-2376-5802
+  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg
+    title: ORCID
+    url: https://orcid.org/0000-0002-2376-5802
+
+  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg
+    title: X
+    url: https://x.com/reza_farahani_?lang=el
+
+  - logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg
+    title: Bluesky
+    url: https://bsky.app/profile/refarahani.bsky.social
 
 
 

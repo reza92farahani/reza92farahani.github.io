@@ -14,7 +14,17 @@
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
-      {{ footer_contents }}
+      {% if site.enable_navbar_social %}
+        <div class="footer-social">
+          {% social_links %}
+        </div>
+        <div class="footer-contact-note">
+          Email is the best way to reach me.
+        </div>
+      {% endif %}
+      <div class="footer-copyright">
+        {{ footer_contents }}
+      </div>
     </div>
   </footer>
 {% else %}
@@ -24,7 +34,17 @@
     {% endif %}
 
     <div class="container">
-      {{ footer_contents }}
+      {% if site.enable_navbar_social %}
+        <div class="footer-social">
+          {% social_links %}
+        </div>
+        <div class="footer-contact-note">
+          Email is the best way to reach me.
+        </div>
+      {% endif %}
+      <div class="footer-copyright">
+        {{ footer_contents }}
+      </div>
     </div>
   </footer>
 {% endif %}

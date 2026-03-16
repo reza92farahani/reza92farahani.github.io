@@ -24,6 +24,8 @@ European Workshop on Visual Information Processing (EUVIP), Geneva, Switzerland,
 
 **Sustainable and Serverless Service Management on the Edge–Cloud Continuum**,  
 - First Habilitation Talk, University of Klagenfurt, Austria, Mar 2025.
+- ▶ **[YouTube](https://www.youtube.com/watch?v=AN2VWnHO94o&t=98s)**
+
 
 **Serverless Large Language Models: Edge vs. Cloud Deployment Trade-offs**
 - Grean AI Workshop organzied by EU ENFIELD Project, kranj, Slovenija,  March 2025.

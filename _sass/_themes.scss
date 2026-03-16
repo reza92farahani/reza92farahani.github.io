@@ -180,9 +180,7 @@ html[data-theme="dark"] {
 
 html,
 body,
-main,
-.container,
-.container-fluid {
+main {
   background-color: var(--global-bg-color);
   color: var(--global-text-color);
 }

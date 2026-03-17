@@ -95,7 +95,6 @@ body.fixed-top-nav.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
-.bibliography .year {
-  color: #222 !important;
-  font-weight: 600;
+html[data-theme="dark"] .bibliography .year {
+  color: #ffffff !important;
 }

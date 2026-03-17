@@ -447,7 +447,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-performance-evaluation-of-privacy-models-for-data-streams-on-the-edge-has-been-accepted-internet-technology-letter-2026-link",
           title: 'Our paper on Performance Evaluation of Privacy Models for Data Streams on the...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-news-4",
+          title: 'News_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_4/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

@@ -1,4 +1,4 @@
-<div class="news">
+{% comment %} <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
     <div
@@ -31,4 +31,31 @@
   {% else %}
     <p>No news so far...</p>
   {% endif %}
+</div> {% endcomment %}
+
+{% assign news = site.news | reverse %}
+{% if include.limit and include.limit != blank %}
+  {% assign news = news | slice: 0, include.limit %}
+{% endif %}
+
+{% if page.announcements and page.announcements.scrollable %}
+  <div class="news" style="max-height: 420px; overflow-y: auto; padding-right: 10px;">
+{% else %}
+  <div class="news">
+{% endif %}
+
+  <table class="table table-sm table-borderless">
+    {% for item in news %}
+      <tr>
+        <th scope="row" style="width: 140px;">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <td>
+          {% if item.inline %}
+            {{ item.content }}
+          {% else %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
 </div>

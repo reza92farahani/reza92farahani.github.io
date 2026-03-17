@@ -438,11 +438,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/news_3/";
-            },},{id: "news-our-paper-on-ellmpeg-an-edge-based-agentic-llm-video-processing-tool-has-been-accepted-acm-mmsys-2026-link",
-          title: 'Our paper on ELLMPEG: An Edge-based Agentic LLM Video Processing Tool has been...',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-lightweight-webassembly-based-intrusion-detection-for-zero-trust-edge-networks-has-been-accepted-ieee-access-2026-link",
+            },},{id: "news-our-paper-on-lightweight-webassembly-based-intrusion-detection-for-zero-trust-edge-networks-has-been-accepted-ieee-access-2026-link",
           title: 'Our paper on Lightweight WebAssembly-Based Intrusion Detection for Zero Trust Edge Networks has...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-ellmpeg-an-edge-based-agentic-llm-video-processing-tool-has-been-accepted-acm-mmsys-2026-link",
+          title: 'Our paper on ELLMPEG: An Edge-based Agentic LLM Video Processing Tool has been...',
           description: "",
           section: "News",},{id: "news-our-paper-on-performance-evaluation-of-privacy-models-for-data-streams-on-the-edge-has-been-accepted-internet-technology-letter-2026-link",
           title: 'Our paper on Performance Evaluation of Privacy Models for Data Streams on the...',

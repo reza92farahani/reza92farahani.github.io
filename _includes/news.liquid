@@ -33,21 +33,25 @@
   {% endif %}
 </div> {% endcomment %}
 
-{% assign news = site.news | reverse %}
-{% if include.limit and include.limit != blank %}
-  {% assign news = news | slice: 0, include.limit %}
+
+{% assign news_items = site.news | sort: "date" | reverse %}
+
+{% assign news_limit = page.announcements.limit | default: 10 %}
+{% if news_limit %}
+  {% assign news_items = news_items | slice: 0, news_limit %}
 {% endif %}
 
-{% if page.announcements and page.announcements.scrollable %}
-  <div class="news" style="max-height: 420px; overflow-y: auto; padding-right: 10px;">
-{% else %}
-  <div class="news">
-{% endif %}
+{% assign scrollable_news = page.announcements.scrollable | default: false %}
+
+<div class="news">
+  {% if scrollable_news %}
+    <div style="max-height: 420px; overflow-y: auto; padding-right: 0.5rem;">
+  {% endif %}
 
   <table class="table table-sm table-borderless">
-    {% for item in news %}
+    {% for item in news_items %}
       <tr>
-        <th scope="row" style="width: 140px;">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <th scope="row" style="width: 140px;">{{ item.date | date: "%b %d, %Y" }}</th>
         <td>
           {% if item.inline %}
             {{ item.content }}
@@ -58,4 +62,8 @@
       </tr>
     {% endfor %}
   </table>
+
+  {% if scrollable_news %}
+    </div>
+  {% endif %}
 </div>

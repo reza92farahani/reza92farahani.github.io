@@ -438,8 +438,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/news_3/";
-            },},{id: "news-happy-to-announce-that-i-have-been-awarded-a-6-month-eu-enfield-research-exchange-grant-hosted-at-sintef-norway-focusing-on-edge-ai-and-green-ai-for-onboard-analytics",
-          title: 'Happy to announce that I have been awarded a 6-month EU ENFIELD research...',
+            },},{id: "news-our-paper-on-lightweight-webassembly-based-intrusion-detection-for-zero-trust-edge-networks-has-been-accepted-ieee-access-2026-link",
+          title: 'Our paper on Lightweight WebAssembly-Based Intrusion Detection for Zero Trust Edge Networks has...',
           description: "",
           section: "News",},{id: "news-our-paper-on-ellmpeg-an-edge-based-agentic-llm-video-processing-tool-has-been-accepted-acm-mmsys-2026-link",
           title: 'Our paper on ELLMPEG: An Edge-based Agentic LLM Video Processing Tool has been...',
@@ -452,7 +452,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/news_4/";
-            },},{id: "projects-project-1",
+            },},{id: "news-happy-to-announce-that-i-have-been-awarded-a-6-month-eu-enfield-research-exchange-grants-from-eu-horizon-enfield-project-hosted-at-sintef-norway-focusing-on-edge-ai-and-green-ai-for-onboard-analytics",
+          title: 'Happy to announce that I have been awarded a 6-month EU ENFIELD research...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

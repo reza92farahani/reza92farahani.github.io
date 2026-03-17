@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-organized-the-first-edition-of-the-international-workshop-on-intelligent-and-scalable-systems-across-the-computing-continuum-scalesys-2025-featuring-6-accepted-papers-and-2-keynote-talks-co-located-with-the-acm-iot-2025-conference-more-details-are-available-here-and-highlights-can-be-found-here",
-          title: 'I organized the first edition of the International Workshop on Intelligent and Scalable...',
+            },},{id: "news-i-organized-the-1st-edition-of-the-international-workshop-on-intelligent-and-scalable-systems-across-the-computing-continuum-scalesys-2025-featuring-6-accepted-papers-and-2-keynote-talks-co-located-with-the-acm-iot-2025-conference-in-tu-wien-austria-more-details-are-available-here-and-highlights-can-be-found-here",
+          title: 'I organized the 1st edition of the *International Workshop on Intelligent and Scalable...',
           description: "",
           section: "News",},{id: "news-i-delivered-a-3-hour-tutorial-titled-serverless-orchestration-on-the-edge-cloud-continuum-from-small-functions-to-large-language-models-at-the-ieee-acm-international-conference-on-utility-and-cloud-computing-ucc-2025-more-details-are-available-link",
           title: 'I delivered a 3-hour tutorial titled Serverless Orchestration on the Edge–Cloud Continuum: From...',

@@ -117,38 +117,38 @@
   
 "awards": [
   {
-    "title": "Nominated by the University of Klagenfurt for the Austrian Heinz Zemanek Prize for an Outstanding Technical PhD Dissertation",
+    "title": "PhD dissertation selected by the University of Klagenfurt for nomination to the Austrian Heinz Zemanek Prize",
     "awarder": "University of Klagenfurt",
     "date": "2023",
     "summary": ""
   },
   {
-    "title": "Young Researcher Visiting Grant",
+    "title": "Young Researcher Visiting Grant (3500€)",
     "awarder": "University of Klagenfurt",
     "date": "2024",
-    "summary": "3500€"
+    "summary": ""
   },
   {
-    "title": "Young Researcher Visiting Grant",
+    "title": "Young Researcher Visiting Grant (5000€)",
     "awarder": "University of Klagenfurt",
     "date": "2022",
-    "summary": "5000€"
+    "summary": ""
   },
   {
-    "title": "ACM Student Travel Grant Award",
-    "awarder": "ACM",
+    "title": "ACM Student Travel Grant Award (1000$",
+    "awarder": "",
     "date": "2022",
-    "summary": "1000$"
+    "summary": "$"
   },
   {
-    "title": "ACM Student Travel Grant Award",
-    "awarder": "ACM",
+    "title": "ACM Student Travel Grant Award (1000$)",
+    "awarder": "",
     "date": "2021",
-    "summary": "1000$"
+    "summary": ""
   },
   {
     "title": "Ranked 81st in the Iranian Nationwide Entrance Exam for MSc Studies in Computer Architecture",
-    "awarder": "National University Entrance Examination",
+    "awarder": "",
     "date": "2016",
     "summary": ""
   }

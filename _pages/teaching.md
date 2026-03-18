@@ -17,7 +17,6 @@ I have been actively involved in teaching activities in distributed systems, edg
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
   
-
 ---
 
 ## 2025

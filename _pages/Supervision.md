@@ -22,7 +22,7 @@ nav_order: 5
   
 ---
 
-## Ongoing Master Thesis
+## Master Students
 
 I enjoy mentoring and supervising Master's thesis students and working closely with them on research topics. It is particularly interesting to see students develop their ideas and research skills throughout the seminar and thesis project. 
 **If you are at University of Klagenfurt or TU WIEN and interested in a thesis topic related to my research areas under the umbrella of distributed and networked systems and services, such as edge–cloud computing, distributed multimedia, serverless systems, AI on the computing continuum, or sustainable distributed systems, feel free to contact me via email.**
@@ -33,7 +33,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   
 - **Daniel Kaltenböck (Feb 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum*(in progress)
+  - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress)
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor).
@@ -63,7 +63,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 ## Open Master Thesis Topics
 
-I am always happy to supervise motivated Master's students. Possible thesis topics include:
+I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include:
 
 - **Serverless Computing on the Edge–Cloud Continuum**  
   Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures.

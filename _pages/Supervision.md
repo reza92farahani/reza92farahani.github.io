@@ -45,7 +45,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: * Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress)
+  - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress)
   
 ---
 

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-25'
 papers:
   RiFrnFQAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 1
     title: 'DEEP: Edge-based dataflow processing with hybrid docker hub and regional registries'
     year: '2025'
+  RiFrnFQAAAAJ:5awf1xo2G04C:
+    citations: 0
+    title: 'DQ-Ladder: A Deep Reinforcement Learning-based Bitrate Ladder for Adaptive Video Streaming'
+    year: '2026'
   RiFrnFQAAAAJ:738O_yMBCRsC:
     citations: 8
     title: Towards ML-Driven Video Encoding Parameter Selection for Quality and Energy Optimization
@@ -50,7 +54,7 @@ papers:
     title: High Complexity and Bad Quality? Efficiency Assessment for Video QoE Prediction Approaches
     year: '2024'
   RiFrnFQAAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 17
     title: 'RICHTER: hybrid P2P-CDN architecture for low latency live video streaming'
     year: '2022'
   RiFrnFQAAAAJ:Mojj43d5GZwC:
@@ -114,7 +118,7 @@ papers:
     title: Transcoding Quality Prediction for Adaptive Video Streaming
     year: '2023'
   RiFrnFQAAAAJ:bFI3QPDXJZMC:
-    citations: 10
+    citations: 11
     title: Decoding complexity-aware bitrate-ladder estimation for adaptive VVC streaming
     year: '2024'
   RiFrnFQAAAAJ:cFHS6HbyZ2cC:

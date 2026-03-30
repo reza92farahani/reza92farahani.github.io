@@ -48,6 +48,13 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress)
   
 ---
+## Bachelor Students
+
+- **Stefan-Lucian Muresan (April 2026)**
+- TU Wien, Austria (Supervisor)
+  - Thesis: *ML-based Traffic Classification at the Edge-Cloud Systems* (in progress)
+
+---
 
 ## Intern Students
 
@@ -61,7 +68,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 ---
 
-## Open Master Thesis Topics
+## Open Bachelor and Master Thesis Topics
 
 I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include:
 

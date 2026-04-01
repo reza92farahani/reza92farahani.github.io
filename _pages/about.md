@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher and Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt, Austria</a>
+subtitle: Postdoctoral Researcher (University Assistant), <a href="https://www.dsg.tuwien.ac.at/">Distributed Systems Group (DSG)</a>, <a href="https://www.tuwien.at/">TU Wien, Austria</a> | Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt, Austria</a>
 
 profile:
   align: right
   image: Reza2.jpg
   image_circular: true
-  more_info: >
-    <p>S2.55, South Building</p>
-    <p>Universitätsstraße 65–67</p>
-    <p>9020 Klagenfurt, Austria</p>
+  # more_info: >
+  #   <p>S2.55, South Building</p>
+  #   <p>Universitätsstraße 65–67</p>
+  #   <p>9020 Klagenfurt, Austria</p>
 
 selected_papers: false
 social: true
@@ -29,7 +29,7 @@ announcements:
 
 **Hello**!
 
-I am a **Postdoctoral Researcher and Lecturer at the Department of Information Technology (ITEC), University of Klagenfurt, Austria**, and will join the **Distributed Systems Group (DSG) at TU Wien** as a University Assistant (Postdoctoral Researcher) in April 2026. My research lies at the intersection of **distributed and networked systems**, **edge–cloud computing**, and **intelligent service orchestration**, focusing on the efficient execution of data-intensive and AI-driven workloads across heterogeneous computing infrastructures.
+I am a **Postdoctoral Researcher (University Assistant) at the Distributed Systems Group (DSG), TU Wien, Austria**, and a **Lecturer at the Department of Information Technology (ITEC), University of Klagenfurt, Austria**. My research lies at the intersection of **distributed and networked systems**, **edge–cloud computing**, and **intelligent service orchestration**, focusing on the efficient execution of data-intensive and AI-driven workloads across heterogeneous computing infrastructures.
 
 My work investigates distributed orchestration across the edge–cloud continuum, with emphasis on **performance, reliability**, and **energy efficiency**. I develop architectures, scheduling models, and orchestration frameworks that enable applications such as **video streaming/processing**, **graph processing**, and **LLM inference** to execute efficiently on heterogeneous **edge, fog, HPC**, and **cloud** resources. This includes the design of **serverless and agent-driven orchestration** mechanisms, as well as methods for energy-aware and resource-adaptive workload placement in large-scale distributed environments.
 

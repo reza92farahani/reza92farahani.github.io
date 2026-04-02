@@ -60,7 +60,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Moritz Pecher (Aug 2022)**
   - University of Klagenfurt, Austria.
-  - Project: *Benchmarking Video Streaming Metrics*, University of Klagenfurt, Austria*.
+  - Project: *Benchmarking Video Streaming Metrics*
 
 - **Fabio Zinner (Aug 2022)**
   - University of Klagenfurt, Austria.
@@ -70,7 +70,16 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 ## Open Bachelor and Master Thesis Topics
 
-I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include:
+I am always happy to supervise motivated Bachelor and Master students working on topics related to **distributed and networked systems, edge–cloud computing, serverless orchestration, AI-driven systems, and distributed multimedia processing/streaming**.
+
+Thesis topics are typically defined **jointly based on current research directions and the student’s interests**. Due to the research-oriented nature of these topics, specific project details are discussed individually.
+
+Students interested in working with me are encouraged to contact me via email with a short description of their background and interests.
+
+<!-- I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include: -->
+
+<!-- - **Agentic AI for Distributed System Orchestration**
+  Investigating agentic AI approaches for autonomous orchestration of distributed edge–cloud systems, where LLM-based agents interact with system components and tools to perform task planning, resource allocation, and execution management. Topics include tool-use, multi-agent coordination, self-reflection mechanisms, and reliability of agent-driven system control.  
 
 - **Serverless Computing on the Edge–Cloud Continuum**  
   Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures.
@@ -103,4 +112,4 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
   Investigating reinforcement learning (RL), deep reinforcement learning (DRL), and active inference approaches for adaptive workload scheduling and resource allocation across heterogeneous edge–cloud infrastructures.
   
 
-Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**.
+Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**. -->

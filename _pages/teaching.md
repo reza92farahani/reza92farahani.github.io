@@ -10,7 +10,8 @@ I have been actively involved in teaching activities in distributed systems, edg
 
 ## 2026
 
-**Spring 2026: Seminar of Distributed Systems (SE)**  
+**Spring 2026: Seminar of Distributed Systems (SE, 184.194)**  
+- Main lecturer
 - Master seminar, TU WIEN, Austria
 
 **Spring 2026: Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  

@@ -12,6 +12,24 @@ r.farahani@dsg.tuwien.ac.at | reza.farahani@tuwien.ac.at | reza.farahani@aau.at
 
 ---
 
+## TU Wien — Institute of Information Systems Engineering
+
+[Distributed Systems Group (DSG)](https://dsg.tuwien.ac.at/)
+
+Argentinierstrasse 8
+A-1040  Vienna
+Austria
+
+<iframe
+src="https://maps.tuwien.ac.at/?q=Argentinierstra%C3%9Fe%208"
+width="100%"
+height="400"
+style="border:0;"
+loading="lazy">
+</iframe>
+
+---
+
 ## University of Klagenfurt
 
 [Department of Information Technology (ITEC)](https://www.aau.at/en/)
@@ -30,19 +48,4 @@ loading="lazy">
 
 ---
 
-## TU Wien — Institute of Information Systems Engineering
-
-[Distributed Systems Group (DSG)](https://dsg.tuwien.ac.at/)
-
-Argentinierstrasse 8
-A-1040  Vienna
-Austria
-
-<iframe
-src="https://maps.tuwien.ac.at/?q=Argentinierstra%C3%9Fe%208"
-width="100%"
-height="400"
-style="border:0;"
-loading="lazy">
-</iframe>
 

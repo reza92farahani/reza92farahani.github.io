@@ -111,4 +111,4 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 - **Reinforcement Learning and Active Inference for Edge–Cloud Resource Management**  
   <!-- Investigating reinforcement learning (RL), deep reinforcement learning (DRL), and active inference approaches for adaptive workload scheduling and resource allocation across heterogeneous edge–cloud infrastructures. -->
   
-Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**. -->
+Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**.

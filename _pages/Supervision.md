@@ -74,42 +74,41 @@ I am always happy to supervise motivated Bachelor and Master students working on
 
 Thesis topics are typically defined **jointly based on current research directions and the student’s interests**. Due to the research-oriented nature of these topics, specific project details are discussed individually.
 
-Students interested in working with me are encouraged to contact me via email with a short description of their background and interests.
+<!-- Students interested in working with me are encouraged to contact me via email with a short description of their background and interests. -->
 
-<!-- I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include: -->
+I am always happy to supervise motivated Bachelor and Master students. Possible thesis topics include:
 
-<!-- - **Agentic AI for Distributed System Orchestration**
-  Investigating agentic AI approaches for autonomous orchestration of distributed edge–cloud systems, where LLM-based agents interact with system components and tools to perform task planning, resource allocation, and execution management. Topics include tool-use, multi-agent coordination, self-reflection mechanisms, and reliability of agent-driven system control.  
+- **Agentic AI for Distributed System Orchestration**
+  <!-- Investigating agentic AI approaches for autonomous orchestration of distributed edge–cloud systems, where LLM-based agents interact with system components and tools to perform task planning, resource allocation, and execution management. Topics include tool-use, multi-agent coordination, self-reflection mechanisms, and reliability of agent-driven system control.   -->
 
 - **Serverless Computing on the Edge–Cloud Continuum**  
-  Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures.
+  <!-- Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures. -->
 
 - **AI-driven Orchestration of Edge–Cloud Systems**  
-  Designing intelligent workload scheduling and service placement strategies using machine learning techniques such as reinforcement learning or LLM-based orchestration approaches.
+  <!-- Designing intelligent workload scheduling and service placement strategies using machine learning techniques such as reinforcement learning or LLM-based orchestration approaches. -->
 
 - **Sustainable AI and Energy-Aware Distributed Systems**  
-  Developing techniques to measure, analyze, and optimize the energy consumption and CO₂ emissions of distributed applications and AI workloads running across edge–cloud infrastructures.
+  <!-- Developing techniques to measure, analyze, and optimize the energy consumption and CO₂ emissions of distributed applications and AI workloads running across edge–cloud infrastructures. -->
 
 - **Edge AI for Drone-based Inspection and Video Analytics**  
-  Designing edge-based AI pipelines for real-time drone inspection and monitoring applications, focusing on efficient onboard inference, selective data transmission, and collaborative edge–cloud processing for inspection tasks.
+  <!-- Designing edge-based AI pipelines for real-time drone inspection and monitoring applications, focusing on efficient onboard inference, selective data transmission, and collaborative edge–cloud processing for inspection tasks. -->
 
 - **On-device LLM and Vision-Language Model Inference**  
-  Exploring efficient deployment strategies for large language models (LLMs) and vision-language models (VLMs) on edge devices using techniques such as quantization, distillation, and collaborative edge–cloud inference.
+  <!-- Exploring efficient deployment strategies for large language models (LLMs) and vision-language models (VLMs) on edge devices using techniques such as quantization, distillation, and collaborative edge–cloud inference. -->
 
 - **Adaptive Video Streaming and Processing in Edge–Cloud Systems**  
-  Investigating intelligent mechanisms for adaptive video streaming and distributed multimedia processing across edge and cloud environments, focusing on techniques such as edge-assisted encoding, bitrate ladder optimization, and AI-driven streaming adaptation.
+  <!-- Investigating intelligent mechanisms for adaptive video streaming and distributed multimedia processing across edge and cloud environments, focusing on techniques such as edge-assisted encoding, bitrate ladder optimization, and AI-driven streaming adaptation. -->
 
 - **Serverless Workflow Scheduling Across the Computing Continuum**  
-  Designing scheduling and orchestration mechanisms for serverless workflows across heterogeneous infrastructures including edge devices, clusters, and public clouds.
+  <!-- Designing scheduling and orchestration mechanisms for serverless workflows across heterogeneous infrastructures including edge devices, clusters, and public clouds. -->
 
 - **Performance Benchmarking and Observability for Edge–Cloud Systems**  
-  Developing benchmarking tools and observability frameworks to analyze performance, scalability, and energy consumption in distributed edge–cloud infrastructures.
+  <!-- Developing benchmarking tools and observability frameworks to analyze performance, scalability, and energy consumption in distributed edge–cloud infrastructures. -->
 
 - **LLM-assisted System Management and Diagnosis**  
-  Investigating how small and large language models can support automated system orchestration, anomaly detection, and performance diagnosis in complex distributed infrastructures.
+  <!-- Investigating how small and large language models can support automated system orchestration, anomaly detection, and performance diagnosis in complex distributed infrastructures. -->
 
 - **Reinforcement Learning and Active Inference for Edge–Cloud Resource Management**  
-  Investigating reinforcement learning (RL), deep reinforcement learning (DRL), and active inference approaches for adaptive workload scheduling and resource allocation across heterogeneous edge–cloud infrastructures.
+  <!-- Investigating reinforcement learning (RL), deep reinforcement learning (DRL), and active inference approaches for adaptive workload scheduling and resource allocation across heterogeneous edge–cloud infrastructures. -->
   
-
 Students interested in these or related topics are encouraged to contact me via email. I am also happy to define thesis topics jointly based on a **student's specific interests**. -->

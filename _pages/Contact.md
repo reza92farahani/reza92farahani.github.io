@@ -8,7 +8,7 @@ nav_order: 9
 
 ### Email
 
-reza DOT farahani AT aau DOT at
+r.farahani@dsg.tuwien.ac.at | reza.farahani@tuwien.ac.at | reza.farahani@aau.at
 
 ---
 

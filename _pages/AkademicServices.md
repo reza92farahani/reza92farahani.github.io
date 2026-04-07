@@ -31,6 +31,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ### Technical Program Committee (TPC)
 
+- IEEE Symposium on Computers and Communications (**ISCC 2026**)
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2026**)
 - ACM International Conference on Computing Frontiers (**CF 2025–2026**)
 - International Conference on Performance Engineering, Artifact track (**ICPE 2025–2026**)

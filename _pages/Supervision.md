@@ -93,8 +93,14 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 - **Edge AI for Drone-based Inspection and Video Analytics**  
   <!-- Designing edge-based AI pipelines for real-time drone inspection and monitoring applications, focusing on efficient onboard inference, selective data transmission, and collaborative edge–cloud processing for inspection tasks. -->
 
+- **WebAssembly and MicroVM-based Lightweight Execution**
+
+- **Peer-to-Peer (P2P) Content Delivery and Edge-assisted CDN Systems**
+
 - **On-device LLM and Vision-Language Model Inference**  
   <!-- Exploring efficient deployment strategies for large language models (LLMs) and vision-language models (VLMs) on edge devices using techniques such as quantization, distillation, and collaborative edge–cloud inference. -->
+
+- **Software-Defined Networking (SDN) and NFV for Edge–Cloud Systems**
 
 - **Adaptive Video Streaming and Processing in Edge–Cloud Systems**  
   <!-- Investigating intelligent mechanisms for adaptive video streaming and distributed multimedia processing across edge and cloud environments, focusing on techniques such as edge-assisted encoding, bitrate ladder optimization, and AI-driven streaming adaptation. -->

@@ -66,11 +66,12 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 - IEEE Transactions on Network and Service Management (**TNSM 2022-2026**)
 - IEEE Transactions on Parallel and Distributed Systems (**TPDS 2022-2026**)
+- IEEE Transactions on Service Computing (**TSC 2023-2036**)
 - IEEE Transactions on Mobile Computing (**TMC 2023-2026**)
+- IEEE Transactions on Image Processing (**TIP 2026**)
 - IEEE Transactions on Multimedia (**TMM 2026**)
 - IEEE Transactions on Green Communications and Networking (**TGCN 2025**)
 - IEEE Transactions on Systems, Man, and Cybernetics (**SMC 2025**)
-- IEEE Transactions on Service Computing (**TSC 2023-2036**)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM 2023-2026**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT 2023-2026**)
 - IEEE Journal on Selected Areas in Communications (**JSAC 2023**)

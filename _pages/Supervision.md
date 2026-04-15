@@ -29,11 +29,11 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Thomas Hilscher (April 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis:  **Agentic AI for Edge Orchestration**
+  - Thesis:  *Agentic AI for Edge Orchestration*
 
 - **Kevin Castillo Cacsire (March 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis:  **Serverless Live Video Streaming**
+  - Thesis:  *Serverless Live Video Streaming*
 
 - **Daniel Kaltenböck (Feb 2026 – present)**
   - TU Wien, Austria (Supervisor)

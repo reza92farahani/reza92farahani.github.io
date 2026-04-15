@@ -27,10 +27,14 @@ nav_order: 5
 I enjoy mentoring and supervising Master's thesis students and working closely with them on research topics. It is particularly interesting to see students develop their ideas and research skills throughout the seminar and thesis project. 
 **If you are at University of Klagenfurt or TU WIEN and interested in a thesis topic related to my research areas under the umbrella of distributed and networked systems and services, such as edge–cloud computing, distributed multimedia, serverless systems, AI on the computing continuum, or sustainable distributed systems, feel free to contact me via email.**
 
+- **Thomas Hilscher (April 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+  - Thesis:  **Agentic AI for Edge Orchestration**
+
 - **Kevin Castillo Cacsire (March 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis:  (in progress)
-  
+  - Thesis:  **Serverless Live Video Streaming**
+
 - **Daniel Kaltenböck (Feb 2026 – present)**
   - TU Wien, Austria (Supervisor)
   - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress)
@@ -99,7 +103,6 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 
 - **On-device LLM and Vision-Language Model Inference**  
   <!-- Exploring efficient deployment strategies for large language models (LLMs) and vision-language models (VLMs) on edge devices using techniques such as quantization, distillation, and collaborative edge–cloud inference. -->
-
 - **Software-Defined Networking (SDN) and NFV for Edge–Cloud Systems**
 
 - **Adaptive Video Streaming and Processing in Edge–Cloud Systems**  

@@ -56,7 +56,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Stefan-Lucian Muresan (April 2026)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: *ML-based Traffic Classification at the Edge-Cloud Systems* (in progress)
+  - Thesis: *Intelligent Traffic Classification at the Edge-Cloud Systems* (in progress)
 
 ---
 

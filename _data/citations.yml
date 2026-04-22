@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-22'
 papers:
   RiFrnFQAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum'
     year: '2026'
   RiFrnFQAAAAJ:AXPGKjj_ei8C:
-    citations: 1
+    citations: 2
     title: Toward Sustainability-Aware LLM Inference on Edge Clusters
     year: '2025'
   RiFrnFQAAAAJ:D03iK_w7-QYC:
@@ -53,6 +53,10 @@ papers:
     citations: 1
     title: High Complexity and Bad Quality? Efficiency Assessment for Video QoE Prediction Approaches
     year: '2024'
+  RiFrnFQAAAAJ:LjlpjdlvIbIC:
+    citations: 0
+    title: Performance Evaluation of Privacy Models for Data Streams on the Edge
+    year: '2026'
   RiFrnFQAAAAJ:LkGwnXOMwfcC:
     citations: 18
     title: 'RICHTER: hybrid P2P-CDN architecture for low latency live video streaming'
@@ -82,7 +86,7 @@ papers:
     title: Video quality assessment with texture information fusion for streaming applications
     year: '2024'
   RiFrnFQAAAAJ:WA5NYHcadZ8C:
-    citations: 2
+    citations: 3
     title: 'Agentic Edge Intelligence: A Research Agenda'
     year: '2025'
   RiFrnFQAAAAJ:WF5omc3nYNoC:
@@ -106,7 +110,7 @@ papers:
     title: 'ARARAT: A Collaborative Edge-Assisted Framework for HTTP Adaptive Video Streaming'
     year: '2022'
   RiFrnFQAAAAJ:Zph67rFs4hoC:
-    citations: 34
+    citations: 35
     title: 'Hybrid P2P-CDN Architecture for Live Video Streaming: An Online Learning Approach'
     year: '2022'
   RiFrnFQAAAAJ:a0OBvERweLwC:
@@ -142,7 +146,7 @@ papers:
     title: Students Report on ACM MMSys 2022
     year: '2023'
   RiFrnFQAAAAJ:iH-uZ7U-co4C:
-    citations: 2
+    citations: 3
     title: 'Graph greenifier: towards sustainable and energy-aware massive graph processing in the computing continuum'
     year: '2023'
   RiFrnFQAAAAJ:isC4tDSrTZIC:
@@ -198,10 +202,10 @@ papers:
     title: A distributed delivery architecture for user generated content live streaming over HTTP
     year: '2021'
   RiFrnFQAAAAJ:vRqMK49ujn8C:
-    citations: 35
+    citations: 36
     title: 'Towards ai-assisted sustainable adaptive video streaming systems: Tutorial and survey'
     year: '2024'
   RiFrnFQAAAAJ:zA6iFVUQeVQC:
-    citations: 18
+    citations: 19
     title: 'SARENA: SFC-enabled architecture for adaptive video streaming applications'
     year: '2023'

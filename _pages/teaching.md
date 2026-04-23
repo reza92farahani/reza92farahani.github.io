@@ -17,7 +17,7 @@ I have been actively involved in teaching activities in distributed systems, edg
 **Seminar of Distributed Systems (SE, 184.194)**  
 - Master seminar, TU WIEN, Austria
 
-**Project in Computer Science 1 (PR, 194.145)**  
+Project in Computer Science 1 (PR, 194.145)  
 - TU WIEN, Austria
 
 **Project in Computer Science 2 (PR, 194.146)**  

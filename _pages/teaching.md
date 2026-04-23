@@ -10,24 +10,33 @@ I have been actively involved in teaching activities in distributed systems, edg
 
 ## 2026
 
-**Spring 2026: Seminar of Distributed Systems (SE, 184.194)**  
-- Main lecturer
-- Master seminar, TU WIEN, Austria
-
-**Spring 2026: Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
+**Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
+
+**Seminar of Distributed Systems (SE, 184.194)**  
+- Master seminar, TU WIEN, Austria
+
+**Project in Computer Science 1 (PR, 194.145)**  
+- TU WIEN, Austria
+
+**Project in Computer Science 2 (PR, 194.146)**  
+- TU WIEN, Austria
+
+**Bachelor Thesis for Informatics and Business Informatics (PR, 184.714)**
+- TU WIEN, Austria
+
   
 ---
 
 ## 2025
 
-**Fall 2025: Serverless Distributed Systems (VC, 623.720)**  
+**Serverless Distributed Systems (VC, 623.720)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
 
 
-**Spring 2025: Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
+**Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
 - Topics include:
@@ -40,7 +49,7 @@ I have been actively involved in teaching activities in distributed systems, edg
 
 ## 2024
 
-**Fall 2024: Serverless Distributed Systems (VC, 623.720)**  
+**Serverless Distributed Systems (VC, 623.720)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
   - Topics include:
@@ -57,7 +66,7 @@ I have been actively involved in teaching activities in distributed systems, edg
 
 ## 2023
 
-**Fall 2023: Introduction to Media Informatics (VO, 180.808)**  
+**Introduction to Media Informatics (VO, 180.808)**  
 - Main lecturer
 - Bachelor/Master, University of Klagenfurt, Austria
 - Topics include:
@@ -71,7 +80,7 @@ I have been actively involved in teaching activities in distributed systems, edg
   - Information Retrieval
   - Metadata in Media
 
-**Fall 2023: Media Informatics Lab (KS, 180.809)**  
+**Media Informatics Lab (KS, 180.809)**  
 - Main lecturer
 - Bachelor/Master, University of Klagenfurt, Austria
   - High-level practical experience in selected topics around

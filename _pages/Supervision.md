@@ -9,7 +9,7 @@ nav_order: 5
 
 ## PhD Students
 - **Zoha Azimi (Sept 2023 – Sept 2027)** 
-  - University of Klagenfurt, Austria (PhD Advisor and Technical Supervisor).
+  - University of Klagenfurt, Austria (PhD Advisor and Daily Technical Supervisor).
   - Dissertation: *AI-Assisted Sustainable Systems for Video Streaming Applications*
 
 - **Mario Colosi (Dec 2024 – Dec 2025)** 
@@ -20,6 +20,9 @@ nav_order: 5
   - University of Pisa, Italy (PhD Thesis Referee)
   - Dissertation: *Advancing Edge AI: Frameworks and Strategies for Trustworthy and Efficient Collaborative Learning*
   
+- **Peyman Eftekhari (April 2026 – May 2028)** 
+  - University of Klagenfurt, Austria (PhD Advisor).
+  - Dissertation: *Reinforcement Learning for QoS-Aware 5G RAN Slicing*
 ---
 
 ## Master Students

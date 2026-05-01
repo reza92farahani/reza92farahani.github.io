@@ -14,15 +14,16 @@ nav_order: 5
 
 - **Mario Colosi (Dec 2024 – Dec 2025)** 
   - University of Messina, Italy and Visiting student at University of Klagenfurt,      Austria, (Co-supervisor with Prof. Massimo Villari).
-  - Dissertation: *Beyond the Client–Server Paradigm: Modernizing Distributed Architectures Across the Computing Continuum*, 
+  - Dissertation: *Beyond the Client–Server Paradigm: Modernizing Distributed Architectures Across the Computing Continuum* 
+
+- **Peyman Eftekhari (April 2026 – May 2028)** 
+  - University of Klagenfurt, Austria (PhD Advisor).
+  - Dissertation: *Reinforcement Learning for QoS-Aware 5G RAN Slicing*
 
 - **Marco Garofalo** 
   - University of Pisa, Italy (PhD Thesis Referee)
   - Dissertation: *Advancing Edge AI: Frameworks and Strategies for Trustworthy and Efficient Collaborative Learning*
   
-- **Peyman Eftekhari (April 2026 – May 2028)** 
-  - University of Klagenfurt, Austria (PhD Advisor).
-  - Dissertation: *Reinforcement Learning for QoS-Aware 5G RAN Slicing*
 ---
 
 ## Master Students

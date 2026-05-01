@@ -64,6 +64,8 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ## Journal Reviewing
 
+- ACM Computing Survey (**CSUR 2026**)
+- IEEE Transactions on the Web (**Web 2026**)
 - IEEE Transactions on Network and Service Management (**TNSM 2022-2026**)
 - IEEE Transactions on Parallel and Distributed Systems (**TPDS 2022-2026**)
 - IEEE Transactions on Service Computing (**TSC 2023-2036**)

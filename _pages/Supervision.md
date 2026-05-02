@@ -43,9 +43,9 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - TU Wien, Austria (Supervisor)
   - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress)
 
-- **Bennet Babu (April 2026 – present)**
+<!-- - **Bennet Babu (April 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor).
-  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress)
+  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress) -->
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)

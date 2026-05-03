@@ -14,10 +14,10 @@ nav_order: 6
 - IEEE International ICDCS'25, Glasgow Scotland, Jul 2025.
 
 **Serverless Orchestration on the Edge–Cloud Continuum: Challenges and Solutions**,  
-ACM/SPEC ICPE'25, Online, May 2025.
+- ACM/SPEC ICPE'25, Online, May 2025.
 
 **Latency- and Energy-Aware Video Compression and Delivery Streaming Systems**,  
-European Workshop on Visual Information Processing (EUVIP), Geneva, Switzerland, Sep 2024.
+- European Workshop on Visual Information Processing (EUVIP), Geneva, Switzerland, Sep 2024.
 
 ---
 ## Invited Talks

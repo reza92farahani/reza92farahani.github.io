@@ -111,6 +111,7 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 
 - **On-device LLM and Vision-Language Model Inference**  
   <!-- Exploring efficient deployment strategies for large language models (LLMs) and vision-language models (VLMs) on edge devices using techniques such as quantization, distillation, and collaborative edge–cloud inference. -->
+  
 - **Software-Defined Networking (SDN) and NFV for Edge–Cloud Systems**
 
 - **Adaptive Video Streaming and Processing in Edge–Cloud Systems**  

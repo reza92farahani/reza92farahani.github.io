@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   RiFrnFQAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Toward Sustainability-Aware LLM Inference on Edge Clusters
     year: '2025'
   RiFrnFQAAAAJ:D03iK_w7-QYC:
-    citations: 14
+    citations: 15
     title: 'Serverless workflow management on the computing continuum: A mini-survey'
     year: '2024'
   RiFrnFQAAAAJ:HE397vMXCloC:
@@ -58,15 +58,19 @@ papers:
     title: Performance Evaluation of Privacy Models for Data Streams on the Edge
     year: '2026'
   RiFrnFQAAAAJ:LkGwnXOMwfcC:
-    citations: 18
+    citations: 19
     title: 'RICHTER: hybrid P2P-CDN architecture for low latency live video streaming'
     year: '2022'
   RiFrnFQAAAAJ:Mojj43d5GZwC:
     citations: 0
     title: 'Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud'
     year: '2025'
+  RiFrnFQAAAAJ:N5tVd3kTz84C:
+    citations: 0
+    title: 'Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing'
+    year: Unknown Year
   RiFrnFQAAAAJ:P5F9QuxV20EC:
-    citations: 10
+    citations: 12
     title: 'Heftless: A bi-objective serverless workflow batch orchestration on the computing continuum'
     year: '2024'
   RiFrnFQAAAAJ:PELIpwtuRlgC:
@@ -85,6 +89,10 @@ papers:
     citations: 21
     title: Video quality assessment with texture information fusion for streaming applications
     year: '2024'
+  RiFrnFQAAAAJ:VL0QpB8kHFEC:
+    citations: 0
+    title: 'Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?'
+    year: '2026'
   RiFrnFQAAAAJ:WA5NYHcadZ8C:
     citations: 3
     title: 'Agentic Edge Intelligence: A Research Agenda'
@@ -150,11 +158,11 @@ papers:
     title: 'Graph greenifier: towards sustainable and energy-aware massive graph processing in the computing continuum'
     year: '2023'
   RiFrnFQAAAAJ:isC4tDSrTZIC:
-    citations: 11
+    citations: 12
     title: Which CDN to download from? A client and server strategies
     year: '2023'
   RiFrnFQAAAAJ:j3f4tGmQtD8C:
-    citations: 13
+    citations: 14
     title: Towards sustainable serverless processing of massive graphs on the computing continuum
     year: '2023'
   RiFrnFQAAAAJ:kNdYIx-mwKoC:
@@ -186,7 +194,7 @@ papers:
     title: Network-Assisted Delivery of Adaptive Video Streaming Services through CDN, SDN, and MEC
     year: '2023'
   RiFrnFQAAAAJ:tOudhMTPpwUC:
-    citations: 4
+    citations: 6
     title: 'EnergyLess: An Energy-Aware Serverless Workflow Batch Orchestration on the Computing Continuum'
     year: '2025'
   RiFrnFQAAAAJ:u5HHmVD_uO8C:
@@ -205,6 +213,10 @@ papers:
     citations: 37
     title: 'Towards ai-assisted sustainable adaptive video streaming systems: Tutorial and survey'
     year: '2024'
+  RiFrnFQAAAAJ:ye4kPcJQO24C:
+    citations: 0
+    title: 'ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters'
+    year: '2026'
   RiFrnFQAAAAJ:zA6iFVUQeVQC:
     citations: 19
     title: 'SARENA: SFC-enabled architecture for adaptive video streaming applications'

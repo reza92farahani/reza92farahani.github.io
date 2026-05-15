@@ -16,9 +16,9 @@ nav_order: 5
   - University of Messina, Italy and Visiting student at University of Klagenfurt,      Austria, (Co-supervisor with Prof. Massimo Villari).
   - Dissertation: *Beyond the Client–Server Paradigm: Modernizing Distributed Architectures Across the Computing Continuum* 
 
-- **Peyman Eftekhari (April 2026 – May 2028)** 
+<!-- - **Peyman Eftekhari (April 2026 – May 2028)** 
   - University of Klagenfurt, Austria (PhD Advisor).
-  - Dissertation: *Reinforcement Learning for QoS-Aware 5G RAN Slicing*
+  - Dissertation: *Reinforcement Learning for QoS-Aware 5G RAN Slicing* -->
 
 - **Marco Garofalo** 
   - University of Pisa, Italy (PhD Thesis Referee)
@@ -43,9 +43,9 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - TU Wien, Austria (Supervisor)
   - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress)
 
-<!-- - **Bennet Babu (April 2026 – present)**
+- **Bennet Babu (April 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor).
-  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress) -->
+  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress)
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)

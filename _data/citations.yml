@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-25'
 papers:
   RiFrnFQAAAAJ:08ZZubdj9fEC:
     citations: 0
     title: "2025 IEEE 18th International Conference on Cloud Computing (CLOUD)| 979-8-3315-5557-3/25/$31.00\xA9 2025 IEEE| DOI: 10.1109/CLOUD67622. 2025.00059"
     year: Unknown Year
   RiFrnFQAAAAJ:4OULZ7Gr8RgC:
-    citations: 32
+    citations: 33
     title: 'ALIVE: A latency-and cost-aware hybrid P2P-CDN framework for live video streaming'
     year: '2023'
   RiFrnFQAAAAJ:4fKUyHm3Qg0C:
@@ -38,7 +38,7 @@ papers:
     title: Predicting Encoding Energy from Low-Pass Anchors for Green Video Streaming
     year: '2025'
   RiFrnFQAAAAJ:HoB7MX3m0LUC:
-    citations: 22
+    citations: 23
     title: Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming
     year: '2023'
   RiFrnFQAAAAJ:IjCSPb-OGe4C:
@@ -68,9 +68,9 @@ papers:
   RiFrnFQAAAAJ:N5tVd3kTz84C:
     citations: 0
     title: 'Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing'
-    year: Unknown Year
+    year: '2026'
   RiFrnFQAAAAJ:P5F9QuxV20EC:
-    citations: 12
+    citations: 13
     title: 'Heftless: A bi-objective serverless workflow batch orchestration on the computing continuum'
     year: '2024'
   RiFrnFQAAAAJ:PELIpwtuRlgC:
@@ -86,7 +86,7 @@ papers:
     title: Context-Aware HTTP Adaptive Video Streaming Utilizing QUIC's Stream Priority
     year: '2023'
   RiFrnFQAAAAJ:TQgYirikUcIC:
-    citations: 21
+    citations: 22
     title: Video quality assessment with texture information fusion for streaming applications
     year: '2024'
   RiFrnFQAAAAJ:VL0QpB8kHFEC:

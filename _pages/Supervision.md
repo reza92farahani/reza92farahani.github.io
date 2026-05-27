@@ -31,40 +31,49 @@ nav_order: 5
 I enjoy mentoring and supervising Master's thesis students and working closely with them on research topics. It is particularly interesting to see students develop their ideas and research skills throughout the seminar and thesis project. 
 **If you are at University of Klagenfurt or TU WIEN and interested in a thesis topic related to my research areas under the umbrella of distributed and networked systems and services, such as edge–cloud computing, distributed multimedia, serverless systems, AI on the computing continuum, or sustainable distributed systems, feel free to contact me via email.**
 
+- **Daniel Hajos (May 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Severless LLM Inference on the Edge Clusters* (in progress) -->
+
 - **Thomas Hilscher (April 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis:  *Agentic AI for Edge Orchestration*
+  <!-- - Thesis:  *Agentic AI for Edge Orchestration* -->
 
 - **Kevin Castillo Cacsire (March 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis:  *Edge-Assisted Serverless Live Video Streaming*
+  <!-- - Thesis:  *Edge-Assisted Serverless Live Video Streaming* -->
 
 - **Daniel Kaltenböck (Feb 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress)
+  <!-- - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress) -->
+
+- **Dominik Sasha Hobel (May 2026 – present)**
+  - University of Klagenfurt, Austria (Co-supervisor).
+  <!-- - Thesis: *Hypergraph task scheduling in distributed edge computing * (in progress) -->
+
 
 - **Bennet Babu (April 2026 – present)**
   - University of Klagenfurt, Austria (Co-supervisor).
-  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress)
+  <!-- - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress) -->
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: *Adaptive Intelligent Video Analytics on the Edge-Cloud Continuum* (in progress) 
+  <!-- - Thesis: *Adaptive Intelligent Video Analytics on the Edge-Cloud Continuum* (in progress)  -->
 
 - **Elif Toraman (Feb 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress)
+  <!-- - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress) -->
 
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)
-  - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress)
+  <!-- - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress) -->
   
 ---
 ## Bachelor Students
 
 - **Stefan-Lucian Muresan (April 2026)**
   - TU Wien, Austria (Supervisor)
-  - Thesis: *Intelligent Traffic Classification at the Edge-Cloud Systems* (in progress)
+  <!-- - Thesis: *Intelligent Traffic Classification at the Edge-Cloud Systems* (in progress) -->
 
 ---
 
@@ -77,7 +86,6 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Fabio Zinner (Aug 2022)**
   - University of Klagenfurt, Austria.
   - Project: *Evaluation of Adaptive Streaming using Mininet*
-
 ---
 
 ## Open Bachelor and Master Thesis Topics

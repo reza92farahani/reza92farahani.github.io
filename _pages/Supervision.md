@@ -63,13 +63,17 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Elif Toraman (Feb 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress) -->
-
+  
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress) -->
   
 ---
 ## Bachelor Students
+
+- **Ivan Cankov (May 2026)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Adaptive Runtime Selection for Serverless Requests* (in progress) -->
 
 - **Stefan-Lucian Muresan (April 2026)**
   - TU Wien, Austria (Supervisor)

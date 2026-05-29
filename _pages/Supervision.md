@@ -31,6 +31,9 @@ nav_order: 5
 I enjoy mentoring and supervising Master's thesis students and working closely with them on research topics. It is particularly interesting to see students develop their ideas and research skills throughout the seminar and thesis project. 
 **If you are at University of Klagenfurt or TU WIEN and interested in a thesis topic related to my research areas under the umbrella of distributed and networked systems and services, such as edge–cloud computing, distributed multimedia, serverless systems, AI on the computing continuum, or sustainable distributed systems, feel free to contact me via email.**
 
+- **Andrej Kapusta (May 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+
 - **Daniel Hajos (May 2026 – present)**
   - TU Wien, Austria (Supervisor)
   <!-- - Thesis: *Severless LLM Inference on the Edge Clusters* (in progress) -->
@@ -63,7 +66,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Elif Toraman (Feb 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress) -->
-  
+
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress) -->

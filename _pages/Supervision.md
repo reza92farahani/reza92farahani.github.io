@@ -95,6 +95,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Fabio Zinner (Aug 2022)**
   - University of Klagenfurt, Austria.
   - Project: *Evaluation of Adaptive Streaming using Mininet*
+
 ---
 
 ## Open Bachelor and Master Thesis Topics

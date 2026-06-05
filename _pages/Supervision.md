@@ -33,6 +33,8 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Andrej Kapusta (May 2026 – present)**
   - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Agentic AI for Service Orchestration on the Edge Clusters* (in progress) -->
+
 
 - **Daniel Hajos (May 2026 – present)**
   - TU Wien, Austria (Supervisor)

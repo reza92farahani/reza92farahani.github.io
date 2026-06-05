@@ -88,13 +88,13 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 ## Intern Students
 
-- **Moritz Pecher (Aug 2022)**
+<!-- - **Moritz Pecher (Aug 2022)**
   - University of Klagenfurt, Austria.
   - Project: *Benchmarking Video Streaming Metrics*
 
 - **Fabio Zinner (Aug 2022)**
   - University of Klagenfurt, Austria.
-  - Project: *Evaluation of Adaptive Streaming using Mininet*
+  - Project: *Evaluation of Adaptive Streaming using Mininet* -->
 ---
 
 ## Open Bachelor and Master Thesis Topics

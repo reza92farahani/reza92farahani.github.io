@@ -50,7 +50,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - International Symposium on Edge Intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEDGE 2025**)
 - Workshop on Distributed Machine Learning for the Intelligent Computing Continuum (**DML-ICC 2025**)
 - International Workshop on Green and Sustainable Networking (**GreenNet 2024–2026**)
-- Workshop on Irregular Applications: Architectures and Algorithms (**IA3**, co-located with SC 2024–2025)
+- Workshop on Irregular Applications: Architectures and Algorithms (**IA3**, co-located with SC 2024–2026)
 
 ---
 
@@ -65,6 +65,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ## Journal Reviewing
 
+- IEEE Transactions on Network (**ToN 2026**)
 - ACM Computing Survey (**CSUR 2026**)
 - IEEE Transactions on the Web (**Web 2026**)
 - IEEE Transactions on Network and Service Management (**TNSM 2022-2026**)

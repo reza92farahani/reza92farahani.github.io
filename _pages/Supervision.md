@@ -13,7 +13,7 @@ nav_order: 5
   - Dissertation: *AI-Assisted Sustainable Systems for Video Streaming Applications*
 
 - **Mario Colosi (Dec 2024 – Dec 2025)** 
-  - University of Messina, Italy and Visiting student at University of Klagenfurt,      Austria, (Co-supervisor with Prof. Massimo Villari).
+  - University of Messina, Italy and Visiting student at University of Klagenfurt, Austria, (Co-supervisor).
   - Dissertation: *Beyond the Client–Server Paradigm: Modernizing Distributed Architectures Across the Computing Continuum* 
 
 - **Peyman Eftekhari (April 2026 – May 2028)** 
@@ -52,7 +52,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - TU Wien, Austria (Supervisor)
   <!-- - Thesis: *Serverless Graph Processing on the Edge-Cloud Continuum* (in progress) -->
 
-- **Dominik Sasha Hobel (May 2026 – present)**
+- **Dominik Sasha Hobel (May 2026)**
   - University of Klagenfurt, Austria (Co-supervisor).
   <!-- - Thesis: *Hypergraph task scheduling in distributed edge computing * (in progress) -->
 

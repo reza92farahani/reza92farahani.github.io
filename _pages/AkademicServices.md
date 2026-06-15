@@ -11,6 +11,12 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ---
 
+## Editorial Board 
+
+- **IEEE Network Magazine** – Associate Editor (**2026–2028**)
+
+---
+
 ## Workshop and Seminar Organization
 
 - **<a href="https://scalesys2025.itec.aau.at/" target="_blank">Intelligent and Scalable Systems across the Computing Continuum (ScaleSys 2025)</a>**  
@@ -31,6 +37,9 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ### Technical Program Committee (TPC)
 
+- ACM Multimedia Systems Conference (**MMSys 2027**)
+- IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
+- IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
 - IEEE Global Communications Confnerece (**Globecom 2026**)
 - IEEE Symposium on Computers and Communications (**ISCC 2026**)
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2026**)

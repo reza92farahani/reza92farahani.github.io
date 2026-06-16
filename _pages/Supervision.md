@@ -111,6 +111,12 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 - **Agentic AI for Distributed System Orchestration**
   <!-- Investigating agentic AI approaches for autonomous orchestration of distributed edge–cloud systems, where LLM-based agents interact with system components and tools to perform task planning, resource allocation, and execution management. Topics include tool-use, multi-agent coordination, self-reflection mechanisms, and reliability of agent-driven system control.   -->
 
+- **Application Management and Orchestration on LEO Satellite Constellations**  
+  <!-- Investigating deployment, scheduling, orchestration, and resource management of distributed applications across Low Earth Orbit (LEO) satellite constellations, edge devices, and cloud infrastructures, considering intermittent connectivity, mobility, energy constraints, and latency-sensitive workloads. -->
+
+- **Edge AI Optimization and Acceleration**  
+  Investigating advanced model optimization techniques, including quantization, pruning, knowledge distillation, model partitioning, and split inference, to enable efficient deployment of AI and LLM/VLM models on resource-constrained edge devices.
+  
 - **Serverless Computing on the Edge–Cloud Continuum**  
   <!-- Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures. -->
 

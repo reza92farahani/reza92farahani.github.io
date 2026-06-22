@@ -65,6 +65,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ### Session Chair
 
+- IEEE International Conference on Distributed Computing Systems (**ICDCS 2026**) – Large Language Models in Edge Computing
 - IEEE International Conference on Internet of Things (**IoT 2025**) – Edge AI and Distributed Intelligence
 - IEEE International Conference on Distributed Computing Systems (**ICDCS 2025**) – Sustainable and Efficient Training and Deployment
 - IEEE International Conference on Cloud Computing (**CLOUD 2025**) – Network and Workload Optimization

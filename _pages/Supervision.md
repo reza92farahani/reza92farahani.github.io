@@ -31,10 +31,13 @@ nav_order: 5
 I enjoy mentoring and supervising Master's thesis students and working closely with them on research topics. It is particularly interesting to see students develop their ideas and research skills throughout the seminar and thesis project. 
 **If you are at University of Klagenfurt or TU WIEN and interested in a thesis topic related to my research areas under the umbrella of distributed and networked systems and services, such as edge–cloud computing, distributed multimedia, serverless systems, AI on the computing continuum, or sustainable distributed systems, feel free to contact me via email.**
 
+- **Victor Vollmann (July 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Agentic LEO Constellation* (in progress) -->
+
 - **Andrej Kapusta (May 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  <!-- - Thesis: *Agentic AI for Service Orchestration on the Edge Clusters* (in progress) -->
-
+  <!-- - Thesis: *Agentic AI for LEO Satellite Constellation Orchestration* (in progress) -->
 
 - **Daniel Hajos (May 2026 – present)**
   - TU Wien, Austria (Supervisor)
@@ -42,7 +45,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
 - **Thomas Hilscher (April 2026 – present)**
   - TU Wien, Austria (Supervisor)
-  <!-- - Thesis:  *Agentic AI for Edge Orchestration* -->
+  <!-- - Thesis:  *Agentic AI for Edge Cluster Orchestration* -->
 
 - **Kevin Castillo Cacsire (March 2026 – present)**
   - TU Wien, Austria (Supervisor)

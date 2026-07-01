@@ -38,7 +38,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ### Technical Program Committee (TPC)
 
 - ACM Multimedia Systems Conference (**MMSys 2027**)
-- IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
+- International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (iEdge 2026)
 - IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
 - IEEE Global Communications Confnerece (**Globecom 2026**)
 - IEEE Symposium on Computers and Communications (**ISCC 2026**)

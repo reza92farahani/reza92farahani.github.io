@@ -117,6 +117,9 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 - **Application Management and Orchestration on LEO Satellite Constellations**  
   <!-- Investigating deployment, scheduling, orchestration, and resource management of distributed applications across Low Earth Orbit (LEO) satellite constellations, edge devices, and cloud infrastructures, considering intermittent connectivity, mobility, energy constraints, and latency-sensitive workloads. -->
 
+- **Neuromorphic Edge Computing**
+
+
 - **Edge AI Optimization and Acceleration**  
   Investigating advanced model optimization techniques, including quantization, pruning, knowledge distillation, model partitioning, and split inference, to enable efficient deployment of AI and LLM/VLM models on resource-constrained edge devices.
   

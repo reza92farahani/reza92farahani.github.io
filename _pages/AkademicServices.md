@@ -19,14 +19,14 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ## Workshop and Seminar Organization
 
-- **<a href="https://scalesys2025.itec.aau.at/" target="_blank">Intelligent and Scalable Systems across the Computing Continuum (ScaleSys 2025)</a>**  
-  Workshop main organizer, co-located with  
-  <a href="https://iot-conference.org/" target="_blank">ACM International Conference on the Internet of Things (IoT 2025)</a>, TU Wien, Austria.
-
-- **<a href="https://edccs2026.blogs.dsv.su.se/" target="_blank">Engineering Techniques for Distributed Computing Continuum (DCCS 2026)</a>**  
+- **<a href="https://edccs2026.blogs.dsv.su.se/" target="_blank">Engineering Techniques for Distributed Computing Continuum (EDCCS 2026)</a>**  
   Workshop co-organizer, co-located with  
   <a href="https://icdcs2026.icdcs.org/" target="_blank">IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</a>,  
   Seoul, South Korea.
+
+- **<a href="https://scalesys2025.itec.aau.at/" target="_blank">Intelligent and Scalable Systems across the Computing Continuum (ScaleSys 2025)</a>**  
+  Workshop main organizer, co-located with  
+  <a href="https://iot-conference.org/" target="_blank">ACM International Conference on the Internet of Things (IoT 2025)</a>, TU Wien, Austria.
 
 ---
 
@@ -38,6 +38,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ### Technical Program Committee (TPC)
 
 - ACM Multimedia Systems Conference (**MMSys 2027**)
+- 24th International Conference on Service-Oriented Computing (**ICSOC 2026**)
 - International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (iEdge 2026)
 - IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
 - IEEE Global Communications Confnerece (**Globecom 2026**)
@@ -64,7 +65,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ---
 
 ### Session Chair
-
+- IEEE International Conference on Cloud Computing (**CLOUD 2026**) – Serving, Offloading & Routing for Cloud-Edge AI Systems
 - IEEE International Conference on Distributed Computing Systems (**ICDCS 2026**) – Large Language Models in Edge Computing
 - IEEE International Conference on Internet of Things (**IoT 2025**) – Edge AI and Distributed Intelligence
 - IEEE International Conference on Distributed Computing Systems (**ICDCS 2025**) – Sustainable and Efficient Training and Deployment

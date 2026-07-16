@@ -35,6 +35,10 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - TU Wien, Austria (Supervisor)
   - Thesis: *Agentic LEO Constellation* (in progress) -->
 
+- **Filip Markovic (June 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *DPO VLM* (in progress) -->
+
 - **Andrej Kapusta (May 2026 – present)**
   - TU Wien, Austria (Supervisor)
   <!-- - Thesis: *Agentic AI for LEO Satellite Constellation Orchestration* (in progress) -->

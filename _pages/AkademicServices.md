@@ -29,17 +29,17 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
   <a href="https://iot-conference.org/" target="_blank">ACM International Conference on the Internet of Things (IoT 2025)</a>, TU Wien, Austria.
 
 ---
+### Technical Program Committee (TPC) Leadership
 
-### Area / Track Chair Chair
-- ACM Multimedia (**MM 2024–2025**)
+- IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2027**) — Publicity Chairs
+- International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence — **iEdge 2026**(**TPC Co-Chair**)
+- ACM Multimedia (**MM 2024–2025**) — **Area Chair**
 
----
 
-### Technical Program Committee (TPC)
+### Technical Program Committee (TPC) Member
 
 - ACM Multimedia Systems Conference (**MMSys 2027**)
 - 24th International Conference on Service-Oriented Computing (**ICSOC 2026**)
-- International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (iEdge 2026)
 - IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
 - IEEE Global Communications Confnerece (**Globecom 2026**)
 - IEEE Symposium on Computers and Communications (**ISCC 2026**)
@@ -76,6 +76,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ## Journal Reviewing
 
+- IEEE Internet of Things Journal (**IoT 2026**)
 - IEEE Transactions on Network (**ToN 2026**)
 - ACM Computing Survey (**CSUR 2026**)
 - IEEE Transactions on the Web (**Web 2026**)

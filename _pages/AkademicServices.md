@@ -35,7 +35,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEdge 2026**) — **TPC Chair**
 - ACM Multimedia (**MM 2024–2025**) — **Area Chair**
 
-
+---
 ### Technical Program Committee (TPC) Member
 
 - ACM Multimedia Systems Conference (**MMSys 2027**)

@@ -31,8 +31,8 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 ---
 ### Technical Program Committee (TPC) Leadership
 
-- IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2027**) — Publicity Chairs
-- International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence — **iEdge 2026**(**TPC Co-Chair**)
+- IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2027**) — **Publicity Chair**
+- International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEdge 2026**) — **TPC Chair**
 - ACM Multimedia (**MM 2024–2025**) — **Area Chair**
 
 
@@ -54,7 +54,6 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - International Workshop on Autonomic and Agentic AI for IoT and Edge Systems (**AutoEdge 2026**, co-located with ACM MobiSys)
 - International Workshop on Testing Distributed Internet of Things Systems (**TDIS 2026**, co-located with EuroSys)
 - International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services (**Intel4EC 2026**, co-located with IPDPS)
-- ACM Multimedia  (**MM 2024–2025**)
 - 32nd IEEE International Conference on High Performance Computing, Data, & Analytics (**HiPC 2025**)
 - IEEE/ACM International Conference on Utility and Cloud Computing (**UCC 2025**)
 - International Symposium on Edge Intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEDGE 2025**)

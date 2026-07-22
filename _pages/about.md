@@ -41,7 +41,7 @@ Besides research, I enjoy teaching, **supervising Bachelor, Master, and PhD stud
   loading="eager"
   path="assets/img/Testbed.jpg"
   alt="Edge computing cluster"
-  caption="One of the edge computing clusters used in our federated HPC-Edge–Cloud experimental testbed for research on distributed systems, Edge AI, and Serverless Edge Computing."
-  class="img-fluid rounded z-depth-1"
+  caption="One of the edge computing clusters used in our federated HPC-Edge-Cloud experimental testbed."
+  class="mx-auto d-block rounded z-depth-1"
   width="50%"
 %}

@@ -8,10 +8,10 @@ profile:
   align: right
   image: Reza2.jpg
   image_circular: true
-  more_info: >
-    <p>EA0320, Distributed Systems Group (DSG)</p>
-    <p>Argentinierstrasse 8/194-02</p>
-    <p>1040 Wien, Austria</p>
+  # more_info: >
+  #   <p>EA0320, Distributed Systems Group (DSG)</p>
+  #   <p>Argentinierstrasse 8/194-02</p>
+  #   <p>1040 Wien, Austria</p>
 
 selected_papers: false
 social: true

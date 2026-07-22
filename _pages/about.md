@@ -36,3 +36,11 @@ My research lies at the intersection of **Distributed and Networked Systems**, *
 To validate these systems, I develop **federated HPC–Edge–Cloud experimental testbeds** and contribute to the design of next-generation distributed computing platforms through several **European and Austrian research projects** ([check here](/projects/)). I am currently pursuing my **Habilitation** (Watch the initial habilitation lecture ▶ **[YouTube](https://www.youtube.com/watch?v=AN2VWnHO94o&t=98s)**) at the University of Klagenfurt on Intelligent Distributed Service Orchestration across the IoT–Edge–Cloud Continuum, where I also completed my PhD.
 
 Besides research, I enjoy teaching, **supervising Bachelor, Master, and PhD students ([check potential topics here](/supervision/))** and collaborating with researchers and industry on the next generation of distributed AI systems. If our research interests align, I would be happy to discuss potential collaborations.
+
+{% include figure.liquid
+  loading="eager"
+  path="assets/img/Testbed.jpg"
+  alt="Edge computing cluster"
+  caption="One of the edge computing clusters used in our federated HPC–Edge–Cloud experimental testbed for research on distributed systems, Edge AI, and serverless computing."
+  class="img-fluid rounded z-depth-1"
+%}

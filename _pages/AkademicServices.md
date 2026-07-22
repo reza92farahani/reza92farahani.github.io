@@ -40,7 +40,8 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 - ACM Multimedia Systems Conference (**MMSys 2027**)
 - 24th International Conference on Service-Oriented Computing (**ICSOC 2026**)
-- IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2026)
+- IEEE Annual Congress on Artificial Intelligence of Things (**AIoT 2026**)
+- IEEE/ACM International Conference on Utility and Cloud Computing (**UCC 2025-2026**)
 - IEEE Global Communications Confnerece (**Globecom 2026**)
 - IEEE Symposium on Computers and Communications (**ISCC 2026**)
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2026**)
@@ -55,7 +56,6 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - International Workshop on Testing Distributed Internet of Things Systems (**TDIS 2026**, co-located with EuroSys)
 - International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services (**Intel4EC 2026**, co-located with IPDPS)
 - 32nd IEEE International Conference on High Performance Computing, Data, & Analytics (**HiPC 2025**)
-- IEEE/ACM International Conference on Utility and Cloud Computing (**UCC 2025**)
 - International Symposium on Edge Intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEDGE 2025**)
 - Workshop on Distributed Machine Learning for the Intelligent Computing Continuum (**DML-ICC 2025**)
 - International Workshop on Green and Sustainable Networking (**GreenNet 2024–2026**)

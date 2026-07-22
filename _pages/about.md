@@ -8,10 +8,10 @@ profile:
   align: right
   image: Reza2.jpg
   image_circular: true
-  # more_info: >
-  #   <p>S2.55, South Building</p>
-  #   <p>Universitätsstraße 65–67</p>
-  #   <p>9020 Klagenfurt, Austria</p>
+  more_info: >
+    <p>EA0320, Distributed Systems Group (DSG)</p>
+    <p>Argentinierstrasse 8/194-02</p>
+    <p>1040 Wien, Austria</p>
 
 selected_papers: false
 social: true
@@ -41,6 +41,7 @@ Besides research, I enjoy teaching, **supervising Bachelor, Master, and PhD stud
   loading="eager"
   path="assets/img/Testbed.jpg"
   alt="Edge computing cluster"
-  caption="One of the edge computing clusters used in our federated HPC–Edge–Cloud experimental testbed for research on distributed systems, Edge AI, and serverless computing."
+  caption="One of the edge computing clusters used in our federated HPC-Edge–Cloud experimental testbed for research on distributed systems, Edge AI, and Serverless Edge Computing."
   class="img-fluid rounded z-depth-1"
+  width="50%"
 %}

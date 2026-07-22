@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher (University Assistant), <a href="https://www.dsg.tuwien.ac.at/">Distributed Systems Group (DSG)</a>, <a href="https://www.tuwien.at/">TU Wien, Austria</a> | Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt, Austria</a>
+subtitle: Univ.Ass. Postdoctoral Researcher and Lecturer, <a href="https://www.dsg.tuwien.ac.at/">Distributed Systems Group (DSG)</a>, <a href="https://www.tuwien.at/">TU Wien, Austria</a> | Lecturer, <a href="https://itec.aau.at/">Department of Information Technology (ITEC)</a>, <a href="https://www.aau.at/">University of Klagenfurt, Austria</a>
 
 profile:
   align: right
@@ -29,7 +29,7 @@ announcements:
 
 **Hello**!
 
-I am a Univ. Ass Postdoctoral Researcher and Lecturer at the Distributed Systems Group (DSG), TU Wien, Austria, and a Lecturer at the Department of Information Technology (ITEC), University of Klagenfurt, Austria. Previously, I was a Postdoctoral Researcher and Lecturer at the University of Klagenfurt, where I contributed to several CDG, FFG, and Horizon Europe research projects.
+I am a Univ.Ass. Postdoctoral Researcher and Lecturer at the Distributed Systems Group (DSG), TU Wien, Austria, and a Lecturer at the Department of Information Technology (ITEC), University of Klagenfurt, Austria. Previously, I was a Postdoctoral Researcher and Lecturer at the University of Klagenfurt, where I contributed to several CDG, FFG, and Horizon Europe research projects.
 
 My research lies at the intersection of **Distributed and Networked Systems**, **Edge-Cloud Computing**, and **Artificial Intelligence**. I design **intelligent orchestration systems** that enable AI, data-intensive, and latency-sensitive applications to execute efficiently across the **IoT-Edge-Cloud continuum**. My work spans **Large Language Models (LLMs)**, **Edge AI**, **Agentic AI**, **Serverless Computing**, **Distributed Multimedia Systems**, with an emphasis on **performance**, **energy efficiency**, and **sustainability**.
 
@@ -41,7 +41,7 @@ Besides research, I enjoy teaching, **supervising Bachelor, Master, and PhD stud
   loading="eager"
   path="assets/img/Testbed.jpg"
   alt="Edge computing cluster"
-  caption="One of the edge computing clusters used in our federated HPC-Edge-Cloud experimental testbed."
+  caption="One of the edge computing clusters used in our federated HPC–Edge–Cloud experimental testbed for research on distributed systems, Edge AI, and Serverless Edge Computing."
   class="mx-auto d-block rounded z-depth-1"
   width="50%"
 %}

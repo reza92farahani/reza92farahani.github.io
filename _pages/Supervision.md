@@ -35,6 +35,10 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - TU Wien, Austria (Supervisor)
   - Thesis: *Agentic LEO Constellation* (in progress) -->
 
+- **Patrick Kruselburger (July 2026 – present)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Hybrid Adaptive WASM-Container Runtime Selection for Serverless Applications * (in progress) -->
+
 - **Filip Markovic (June 2026 – present)**
   - TU Wien, Austria (Supervisor)
   <!-- - Thesis: *DPO VLM* (in progress) -->
@@ -62,7 +66,6 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Dominik Sasha Hobel (May 2026)**
   - University of Klagenfurt, Austria (Co-supervisor).
   <!-- - Thesis: *Hypergraph task scheduling in distributed edge computing * (in progress) -->
-
 <!-- 
 - **Bennet Babu (April 2026 – present)**
   - University of Klagenfurt, Austria (Co-supervisor).
@@ -82,6 +85,10 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   
 ---
 ## Bachelor Students
+
+- **Sebastian Bader (May 2026)**
+  - TU Wien, Austria (Supervisor)
+  <!-- - Thesis: *Adaptive Runtime Selection for Serverless Requests* (in progress) -->
 
 - **Ivan Cankov (May 2026)**
   - TU Wien, Austria (Supervisor)

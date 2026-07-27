@@ -86,7 +86,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 ---
 ## Bachelor Students
 
-- **Sebastian Bader (May 2026)**
+- **Sebastian Bader (July 2026)**
   - TU Wien, Austria (Supervisor)
   <!-- - Thesis: *Adaptive Runtime Selection for Serverless Requests* (in progress) -->
 

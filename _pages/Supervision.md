@@ -66,7 +66,6 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Dominik Sasha Hobel (May 2026)**
   - University of Klagenfurt, Austria (Co-supervisor).
   <!-- - Thesis: *Hypergraph task scheduling in distributed edge computing * (in progress) -->
-
 <!-- 
 - **Bennet Babu (April 2026 – present)**
   - University of Klagenfurt, Austria (Co-supervisor).

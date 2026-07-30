@@ -66,10 +66,6 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Dominik Sasha Hobel (May 2026)**
   - University of Klagenfurt, Austria (Co-supervisor).
   <!-- - Thesis: *Hypergraph task scheduling in distributed edge computing * (in progress) -->
-<!-- 
-- **Bennet Babu (April 2026 – present)**
-  - University of Klagenfurt, Austria (Co-supervisor).
-  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress) -->
 
 - **Manuel Hoi (March 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
@@ -83,6 +79,10 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Intent-based Computing Continuum Management Using Open-Source LLMs* (in progress) -->
   
+<!-- 
+- **Bennet Babu (April 2026 – present)**
+  - University of Klagenfurt, Austria (Co-supervisor).
+  - Thesis: *Multi-Signal Fusion-Based Scoring for Zero Trust at the Edge* (in progress) -->
 ---
 ## Bachelor Students
 

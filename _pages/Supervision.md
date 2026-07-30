@@ -132,7 +132,7 @@ I am always happy to supervise motivated Bachelor and Master students. Possible 
 
 
 - **Edge AI Optimization and Acceleration**  
-  Investigating advanced model optimization techniques, including quantization, pruning, knowledge distillation, model partitioning, and split inference, to enable efficient deployment of AI and LLM/VLM models on resource-constrained edge devices.
+  <!-- Investigating advanced model optimization techniques, including quantization, pruning, knowledge distillation, model partitioning, and split inference, to enable efficient deployment of AI and LLM/VLM models on resource-constrained edge devices. -->
   
 - **Serverless Computing on the Edge–Cloud Continuum**  
   <!-- Investigating serverless runtimes (e.g., WebAssembly, containers, and microVMs) for low-latency and energy-efficient execution across heterogeneous edge and cloud infrastructures. -->

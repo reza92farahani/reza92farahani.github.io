@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-08-07'
 papers:
   RiFrnFQAAAAJ:08ZZubdj9fEC:
     citations: 0
     title: "2025 IEEE 18th International Conference on Cloud Computing (CLOUD)| 979-8-3315-5557-3/25/$31.00\xA9 2025 IEEE| DOI: 10.1109/CLOUD67622. 2025.00059"
     year: Unknown Year
   RiFrnFQAAAAJ:4OULZ7Gr8RgC:
-    citations: 34
+    citations: 36
     title: 'ALIVE: A latency-and cost-aware hybrid P2P-CDN framework for live video streaming'
     year: '2023'
   RiFrnFQAAAAJ:4fKUyHm3Qg0C:
@@ -14,7 +14,7 @@ papers:
     title: 'DEEP: Edge-based dataflow processing with hybrid docker hub and regional registries'
     year: '2025'
   RiFrnFQAAAAJ:5awf1xo2G04C:
-    citations: 0
+    citations: 3
     title: 'DQ-Ladder: A Deep Reinforcement Learning-based Bitrate Ladder for Adaptive Video Streaming'
     year: '2026'
   RiFrnFQAAAAJ:738O_yMBCRsC:
@@ -54,7 +54,7 @@ papers:
     title: High Complexity and Bad Quality? Efficiency Assessment for Video QoE Prediction Approaches
     year: '2024'
   RiFrnFQAAAAJ:LjlpjdlvIbIC:
-    citations: 0
+    citations: 1
     title: Performance Evaluation of Privacy Models for Data Streams on the Edge
     year: '2026'
   RiFrnFQAAAAJ:LkGwnXOMwfcC:
@@ -66,7 +66,7 @@ papers:
     title: 'Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud'
     year: '2025'
   RiFrnFQAAAAJ:N5tVd3kTz84C:
-    citations: 0
+    citations: 1
     title: 'Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing'
     year: '2026'
   RiFrnFQAAAAJ:P5F9QuxV20EC:
@@ -74,15 +74,19 @@ papers:
     title: 'Heftless: A bi-objective serverless workflow batch orchestration on the computing continuum'
     year: '2024'
   RiFrnFQAAAAJ:PELIpwtuRlgC:
-    citations: 0
+    citations: 2
     title: Lightweight WebAssembly-Based Intrusion Detection for Zero Trust Edge Networks
+    year: '2026'
+  RiFrnFQAAAAJ:PR6Y55bgFSsC:
+    citations: 0
+    title: 'LMEdge: QoS-Aware LLM Inference Orchestration on Edge Clusters'
     year: '2026'
   RiFrnFQAAAAJ:SP6oXDckpogC:
     citations: 0
     title: Graph Sampling Quality Prediction for Algorithm Recommendation
     year: '2024'
   RiFrnFQAAAAJ:TFP_iSt0sucC:
-    citations: 5
+    citations: 4
     title: Context-Aware HTTP Adaptive Video Streaming Utilizing QUIC's Stream Priority
     year: '2023'
   RiFrnFQAAAAJ:TQgYirikUcIC:
@@ -90,11 +94,11 @@ papers:
     title: Video quality assessment with texture information fusion for streaming applications
     year: '2024'
   RiFrnFQAAAAJ:VL0QpB8kHFEC:
-    citations: 1
+    citations: 2
     title: 'Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?'
     year: '2026'
   RiFrnFQAAAAJ:WA5NYHcadZ8C:
-    citations: 6
+    citations: 7
     title: 'Agentic Edge Intelligence: A Research Agenda'
     year: '2025'
   RiFrnFQAAAAJ:WF5omc3nYNoC:
@@ -114,7 +118,7 @@ papers:
     title: 'Serverless Orchestration on Edge-Cloud Continuum: From Small Functions to Large Language Models'
     year: '2025'
   RiFrnFQAAAAJ:YOwf2qJgpHMC:
-    citations: 32
+    citations: 33
     title: 'ARARAT: A Collaborative Edge-Assisted Framework for HTTP Adaptive Video Streaming'
     year: '2022'
   RiFrnFQAAAAJ:Zph67rFs4hoC:
@@ -130,7 +134,7 @@ papers:
     title: Transcoding Quality Prediction for Adaptive Video Streaming
     year: '2023'
   RiFrnFQAAAAJ:bFI3QPDXJZMC:
-    citations: 13
+    citations: 15
     title: Decoding complexity-aware bitrate-ladder estimation for adaptive VVC streaming
     year: '2024'
   RiFrnFQAAAAJ:cFHS6HbyZ2cC:
@@ -154,19 +158,19 @@ papers:
     title: Students Report on ACM MMSys 2022
     year: '2023'
   RiFrnFQAAAAJ:iH-uZ7U-co4C:
-    citations: 3
+    citations: 4
     title: 'Graph greenifier: towards sustainable and energy-aware massive graph processing in the computing continuum'
     year: '2023'
   RiFrnFQAAAAJ:isC4tDSrTZIC:
-    citations: 12
+    citations: 13
     title: Which CDN to download from? A client and server strategies
     year: '2023'
   RiFrnFQAAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 15
     title: Towards sustainable serverless processing of massive graphs on the computing continuum
     year: '2023'
   RiFrnFQAAAAJ:kNdYIx-mwKoC:
-    citations: 8
+    citations: 9
     title: 'Towards low latency live streaming: challenges in a real-world deployment'
     year: '2022'
   RiFrnFQAAAAJ:k_IJM867U9cC:
@@ -186,7 +190,7 @@ papers:
     title: On optimizing resource utilization in AVC-based real-time video streaming
     year: '2020'
   RiFrnFQAAAAJ:r0BpntZqJG4C:
-    citations: 6
+    citations: 7
     title: Large-scale graph processing and simulation with serverless workflows in federated FaaS
     year: '2023'
   RiFrnFQAAAAJ:rO6llkc54NcC:
@@ -194,11 +198,11 @@ papers:
     title: Network-Assisted Delivery of Adaptive Video Streaming Services through CDN, SDN, and MEC
     year: '2023'
   RiFrnFQAAAAJ:tOudhMTPpwUC:
-    citations: 7
+    citations: 8
     title: 'EnergyLess: An Energy-Aware Serverless Workflow Batch Orchestration on the Computing Continuum'
     year: '2025'
   RiFrnFQAAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: Public-Key Based Routing In Internet For Anonymous Data Communication
     year: '2018'
   RiFrnFQAAAAJ:uWQEDVKXjbEC:
@@ -210,14 +214,14 @@ papers:
     title: A distributed delivery architecture for user generated content live streaming over HTTP
     year: '2021'
   RiFrnFQAAAAJ:vRqMK49ujn8C:
-    citations: 39
+    citations: 38
     title: 'Towards ai-assisted sustainable adaptive video streaming systems: Tutorial and survey'
     year: '2024'
   RiFrnFQAAAAJ:ye4kPcJQO24C:
-    citations: 0
+    citations: 1
     title: 'ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters'
     year: '2026'
   RiFrnFQAAAAJ:zA6iFVUQeVQC:
-    citations: 20
+    citations: 21
     title: 'SARENA: SFC-enabled architecture for adaptive video streaming applications'
     year: '2023'

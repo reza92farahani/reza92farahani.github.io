@@ -86,6 +86,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 - IEEE Transactions on Service Computing (**TSC 2023-2026**)
 - IEEE Transactions on Mobile Computing (**TMC 2023-2026**)
 - IEEE Transactions on Image Processing (**TIP 2026**)
+- IEEE Open Journal of the Computer Society (**OJCS 2026**)
 - IEEE Computer (**Com 2026**)
 - IEEE Transactions on Multimedia (**TMM 2026**)
 - IEEE Transactions on Green Communications and Networking (**TGCN 2025**)

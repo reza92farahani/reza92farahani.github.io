@@ -30,7 +30,7 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ---
 ### Technical Program Committee (TPC) Leadership
-
+- ACM Web Conference (**Web 2027**) — **Infrastructure and Agentic Systems Track chair**
 - IEEE International Symposium on Cluster Computing and the Grid (**CCGRID 2027**) — **Publicity Chair**
 - International Symposium on Edge intelligence, Trustworthy and Decentralized Artificial Intelligence (**iEdge 2026**) — **TPC Chair**
 - ACM Multimedia (**MM 2024–2025**) — **Area Chair**

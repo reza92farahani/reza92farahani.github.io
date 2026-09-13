@@ -37,7 +37,7 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 
   <!-- - TU Wien, Austria (Supervisor) -->
   <!-- - Thesis: *Adaptive Runtime Management for VLM Requests Orchestration on the Edge Envirenments* (in progress) --> 
-- **Anton Martinovic** (Sept 2026 – present)**
+- **Anton Martinovic (Sept 2026 – present)**
   - TU Wien, Austria (Supervisor)
     <!-- - Thesis: *Sdecoding VLM at the edge-cloud systems * (in progress) -->
 

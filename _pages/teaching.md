@@ -10,7 +10,7 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 
 ## Current Teaching — 2026/27
 
-### TU Wien
+**TU Wien**
 
 - **Advanced Internet Computing** (VU, 194.196) — **Main Lecturer**
 - **Distributed Systems** (VU, 194.024) — Lecturer
@@ -19,7 +19,7 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 - **Project in Computer Science 2** (PR, 194.146) — Supervisor
 - **Bachelor Thesis for Informatics and Business Informatics** (PR, 184.714) — Supervisor
 
-### University of Klagenfurt
+**University of Klagenfurt**
 
 - **Serverless Distributed Systems** (VC, 623.720) — **Main Lecturer**
 
@@ -27,7 +27,7 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 
 ## Previous Teaching
 
-### University of Klagenfurt
+**University of Klagenfurt**
 
 **2026**
 

@@ -56,4 +56,4 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 
 ---
 
-For available **Bachelor/Master theses, seminars, and research projects**, see **Supervision**.
+For available **Bachelor/Master theses, seminars, and research projects**, see the **Supervision** page.

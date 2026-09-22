@@ -6,36 +6,40 @@ nav: true
 nav_order: 4
 ---
 
-I have been actively involved in teaching activities in distributed systems, edge–cloud computing, and advanced Internet architectures. The following courses summarize my recent teaching activities.
+My teaching covers distributed systems, edge-cloud computing, serverless computing, Internet computing, and AI-enabled distributed systems, with an emphasis on connecting fundamental concepts with emerging systems and real-world experimentation.
 
-## 2026
+## Current Teaching — 2026/27
 
-**Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
+## TU Wien
+
+**Advanced Internet Computing (VU, 194.196) — Main Lecturer**  
 - Main lecturer
-- Master course, University of Klagenfurt, Austria
+- Teaching advanced concepts in Internet-scale and distributed computing systems.
 
-**Seminar of Distributed Systems (SE, 184.194)**  
-- Master seminar, TU WIEN, Austria
+**Distributed Systems (VU, 194.024)**  
+- Teaching foundations in distributed systems.
+
+**Seminar in Computer Science — Distributed Systems (SE, 184.194)**  
+- Supervising seminar scentific research on emerging topics in distributed systems, edge–cloud computing, and distributed AI.
 
 **Project in Computer Science 1 (PR, 194.145)**  
-- TU WIEN, Austria
+- Supervision of research-oriented student projects.
 
-**Project in Computer Science 2 (PR, 194.146)**  
-- TU WIEN, Austria
+**Project in Computer Science 2 (PR, 194.146)**
+- Supervision of advanced research-oriented student projects.
 
 **Bachelor Thesis for Informatics and Business Informatics (PR, 184.714)**
-- TU WIEN, Austria
-
-  
+- Supervision of Bachelor theses in distributed systems and related areas.
 ---
+
+## University of Klagenfurt
 
 ## 2025
 
-**Serverless Distributed Systems (VC, 623.720)**  
-- Main lecturer
-- Master course, University of Klagenfurt, Austria
+**Serverless Distributed Systems (VC, 623.720) — Main Lecturer**  
+- Master-level course covering serverless computing, Function-as-a-Service (FaaS), containerization, serverless workflows, and resource management across the edge–cloud continuum.
 
-
+<!-- 
 **Current Topics in Distributed Systems — Internet of Things and Cloud Computing (VC, 623.922)**  
 - Main lecturer
 - Master course, University of Klagenfurt, Austria
@@ -101,4 +105,4 @@ I have been actively involved in teaching activities in distributed systems, edg
 
 **Cisco Networking Courses (CCNA/CCNP)**  
 - Main lecturer
-- Lecturer, University of Tehran
+- Lecturer, University of Tehran -->

@@ -34,16 +34,11 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
 - **Jakub Dunaj (Sept 2026 – present)**
   - TU Wien, Austria (Supervisor)
 
-
 - **Yehea Eldib (Sept 2026 – present)**
   - TU Wien, Austria (Supervisor)
-
-
-
 <!-- - **?? (July 2026 – present)**
   - TU Wien, Austria (Supervisor)
   - Thesis: *Agentic LEO Constellation* (in progress) -->
-
   <!-- - TU Wien, Austria (Supervisor) -->
   <!-- - Thesis: *Adaptive Runtime Management for VLM Requests Orchestration on the Edge Envirenments* (in progress) --> 
 - **Anton Martinovic (Sept 2026 – present)**

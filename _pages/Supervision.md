@@ -77,9 +77,9 @@ I enjoy mentoring and supervising Master's thesis students and working closely w
   - University of Klagenfurt, Austria (Supervisor)
   <!-- - Thesis: *Adaptive Intelligent Video Analytics on the Edge-Cloud Continuum* (in progress)  -->
 
-- **Elif Toraman (Feb 2026 – present)**
+<!-- - **Elif Toraman (Feb 2026 – present)**
   - University of Klagenfurt, Austria (Supervisor)
-  <!-- - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress) -->
+  - Thesis: *Intent-based Orchestration of Serverless Applications on the the Edge Environment* (in progress) -->
 
 - **Antonios Marinidis (Nov 2025 – present)** 
   - University of Klagenfurt, Austria (Supervisor)

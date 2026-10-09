@@ -5,6 +5,18 @@ permalink: /projects/
 nav: true
 nav_order: 2
 ---
+### **<a href="https://www.ffg.at/content/gigabit-wall/K%C3%A4rntner-Fog" target="_blank">Kärntner Fog</a>** <img src="/assets/img/FFG.png" alt="FFG logo" width="100">
+
+**EdgeAI-Drone: Intent-Driven Edge AI Drone Inspection for Bridge Infrastructure**
+
+**Funder:** Austrian Research Promotion Agency (FFG)  
+**Grant:**   
+**Period:** 2026-2029  
+
+I coordinate a research-Industry consortium developing intent-driven Edge AI solutions for autonomous drone-based bridge inspection, focusing on onboard intelligence, efficient data processing, and infrastructure monitoring and inspection.
+
+
+
 
 ### **<a href="https://enfield-project.eu/open-calls/4th-exchange-scheme-open-call/" target="_blank">ENFIELD Exchange</a>** <img src="/assets/img/EU.png" alt="EU logo" width="90">
 

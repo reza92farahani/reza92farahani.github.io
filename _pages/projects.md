@@ -5,7 +5,7 @@ permalink: /projects/
 nav: true
 nav_order: 2
 ---
-### **<a href="https://www.ffg.at/content/gigabit-wall/K%C3%A4rntner-Fog" target="_blank">Kärntner Fog</a>** <img src="/assets/img/FFG.png" alt="FFG logo" width="100">
+### **<a href="https://www.ffg.at/content/gigabit-wall/K%C3%A4rntner-Fog" target="_blank">EdgeAI-Drone</a>** <img src="/assets/img/FFG.png" alt="FFG logo" width="100">
 
 **EdgeAI-Drone: Intent-Driven Edge AI Drone Inspection for Bridge Infrastructure**
 

@@ -11,10 +11,11 @@ journal reviewing, and workshop organization in distributed systems, edge-cloud 
 
 ---
 
-## Editorial Board 
+## Editorial Board
 
+- **IEEE Network Magazine** — Associate Editor (**2026–2028**)
 - **Future Generation Computer Systems (FGCS)** — Guest Editor, Special Issue on **Agentic Federated Learning for the Edge Intelligence** (**2026–2027**)
-- **IEEE Network Magazine** – Associate Editor (**2026–2028**)
+
 ---
 
 ## Workshop and Seminar Organization

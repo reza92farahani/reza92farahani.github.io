@@ -11,7 +11,7 @@ nav_order: 2
 
 **Funder:** Austrian Research Promotion Agency (FFG)  
 **Grant:**   
-**Period:** 2026-2029  
+**Period:** 2027-2030  
 
 I coordinate a research-Industry consortium developing intent-driven Edge AI solutions for autonomous drone-based bridge inspection, focusing on onboard intelligence, efficient data processing, and infrastructure monitoring and inspection.
 

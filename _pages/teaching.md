@@ -12,8 +12,8 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 
 **TU Wien**
 
-- **Advanced Internet Computing** (VU, 194.196) — **Main Lecturer**
-- **Distributed Systems** (VU, 194.024) — Lecturer
+- **Advanced Internet Computing** (VO, 194.196) — **Main Lecturer**
+- **Distributed Systems** (VO, 194.024) — Lecturer
 - **Seminar in Computer Science — Distributed Systems** (SE, 184.194) — Supervisor
 - **Project in Computer Science 1** (PR, 194.145) — Supervisor
 - **Project in Computer Science 2** (PR, 194.146) — Supervisor
@@ -21,7 +21,7 @@ My teaching spans **distributed systems**, **edge–cloud and serverless computi
 
 **University of Klagenfurt**
 
-- **Serverless Distributed Systems** (VC, 623.720) — **Main Lecturer**
+- **Serverless Distributed Systems** (VO, 623.720) — **Main Lecturer**
 
 ---
 

@@ -22,6 +22,9 @@ nav_order: 6
 ---
 ## Invited Talks
 
+**How Much Compute, How Fast, at What Cost, and for What Quality? Multidimensional Elastic Service Management across the Edge-Cloud Continuum**,  
+- Second Habilitation Talk, University of Klagenfurt, Austria, November 2026 (**[Detail](https://www.ftf.or.at/?p=9623)**).
+
 **Sustainable and Serverless Service Management on the Edge–Cloud Continuum**,  
 - First Habilitation Talk, University of Klagenfurt, Austria, Mar 2025 (▶ **[YouTube](https://www.youtube.com/watch?v=AN2VWnHO94o&t=98s)**).
 

@@ -22,6 +22,9 @@ nav_order: 6
 ---
 ## Invited Talks
 
+**Multidimensional Elastic Service Management across the Edge–Cloud Continuum**  
+- Invited Talk, University of Reading, UK, November 2026.
+
 **How Much Compute, How Fast, at What Cost, and for What Quality? Multidimensional Elastic Service Management across the Edge–Cloud Continuum**  
 - Second Habilitation Talk, University of Klagenfurt, Austria, November 2026 ([Details](https://www.ftf.or.at/?p=9623)).
 
